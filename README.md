@@ -1,2 +1,5 @@
 # sprestridge.github.io
-Repository for GitHub pages
+
+## Hello World
+
+Now hosted w/ GitHub Pages.
