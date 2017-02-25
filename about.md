@@ -5,6 +5,8 @@ permalink: /about/
 ---
 I am a business consultant educated as a civil (BSCE) and structural (MSCE) engineer with further education in finance (MBA). I analyze data, build tools, author reports, facilitate meetings, and help set policy for government clients. I have been focused on asset managment, cost estimating, and analytics for the past ten years.
 
+---
+
 This site uses a Jekyll theme. You can find out more info about customizing  Jekyll themes, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
 
 You can find the source code for the Jekyll theme at:
