@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Pour one out for TapCellar"
-date:   2016-01-11 16:37:23 -0500
+date:   2017-02-26 16:37:23 -0500
 categories: beer
 ---
 I am not really sure where I learned of TapCellar or of [Gabe Weatherhead](http://www.macdrifter.com) and [Jeff Hunsberger's](http://technologynotes.net) [Nerds on Draft](http://www.nerdsondraft.com) podcast but I did and my beer drinking and podcast listening life has been better for it. Unfortunately in today's app store environment this wonderful beer app had to be retired.
