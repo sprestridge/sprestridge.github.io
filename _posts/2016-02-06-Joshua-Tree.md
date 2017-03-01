@@ -57,16 +57,23 @@ Get outside, do and see more, and enjoy the places that move you, Joshua Tree Na
 
 Note: This post originally appeared on [Medium](https://medium.com/p/42ec007f6724) but I am making an effort to host my own writing.
 
-### Other parks in my series (currently linked to Medium)
+### Other parks in my series (currently linked to Medium but will eventually all be hosted here)
+
 1. [Acadia National Park](https://medium.com/p/1e3f7836c267)
 2. [Cape Cod National Park](https://medium.com/@sprestridge/cape-cod-national-seashore-9891f4e4647a)
 3. [Martin Luther King, Jr. Memorial](https://medium.com/p/20acaa1af52c)
 4. [Chesapeake & Ohio Canal National Historic Park](https://medium.com/p/a58ca77317c9)
 5. [Joshua Tree National Park](https://medium.com/p/42ec007f6724)
+6. [Morristown National Historical Park](https://medium.com/p/a25bf025d31f)
+7. [Jefferson National Expansion Monument](https://medium.com/p/d537e87ae672)
+8. [Monocacy National Battlefield](https://medium.com/p/5ef2910c118b)
+9. [Prince William Forest Park](https://medium.com/p/b307aedfed2)
+10. [You can run America’s Parks](https://en.wikipedia.org/wiki/Gateway_National_Recreation_Area)
+11. [Gateway National Recreation Area](https://medium.com/p/a29761c6c097)
 
 **References**
 
-1. [Joshua Tree National Park](www.nps.gov/JOTR)
+1. [Joshua Tree National Park - Official NPS site](www.nps.gov/JOTR)
 2. [Joshua Tree National Park: A History of Preserving the Desert](http://www.nps.gov/jotr/learn/historyculture/upload/JOTRAdministrativeHistory.pdf) by Lary M. Dilsaver, March 2015.
-3. [California Desert Protection Act of 1994](https://en.wikipedia.org/wiki/California_Desert_Protection_Act_of_1994)
+3. [California Desert Protection Act of 1994 - Wikipedia](https://en.wikipedia.org/wiki/California_Desert_Protection_Act_of_1994)
 4. [Joshua Tree National Park Business Plan FY2001](http://www.nps.gov/jotr/learn/management/upload/bpi.pdf)
