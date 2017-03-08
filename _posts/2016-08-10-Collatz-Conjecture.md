@@ -2,13 +2,15 @@
 layout: post
 title:  "Fun with the Collatz Conjecture"
 date:   2016-08-10 16:00:00 -0500
-categories: excel
+categories: excel math
 ---
-I had heard about this mathematical tidbit in grad school and forgotten all about it. For some reason it has been making the rounds on the Internet and social media recently and I stumbled upon it again. I think it was this YouTube video I saw most recently: 
+I had heard about this mathematical tidbit in grad school and forgotten all about it. For some reason it has been making the rounds on the Internet and social media recently and I stumbled upon it again. I think it was this YouTube video I saw most recently from [the Numberphile](http://www.numberphile.com/index.html): 
 
-[https://www.youtube.com/watch?v=5mFpVDpKX70](https://www.youtube.com/watch?v=5mFpVDpKX70)
+Direct Link to YouTube: [https://www.youtube.com/watch?v=5mFpVDpKX70](https://www.youtube.com/watch?v=5mFpVDpKX70)
 
-Here is the basic principle. Take any positive integer n. If n is even, divide it by 2 (n/2). If n is odd, multiply it by 3 and add 1 (3n + 1). Repeat the process on the result (which has been called "_Half Or Triple Plus One_", or HOTPO) indefinitely. The **Collatz Conjecture** is that _no matter what positive integer you begin with the result will eventually reach 1_. Which if you think about it is counter-intuitive. If you are tripling and adding one to your result half the time and cutting your result in half the other half of the time you would think the number would grow very large eventually.
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5mFpVDpKX70" frameborder="0" allowfullscreen></iframe>
+
+Here is the basic principle. Take any positive integer n. If n is even, divide it by 2 (n/2). If n is odd, multiply it by 3 and add 1 (3n + 1). Repeat the process on the result (which has been called "_Half Or Triple Plus One_", or HOTPO) indefinitely. The **Collatz Conjecture** is that _no matter what positive integer you begin with the result will eventually reach 1_. Which if you think about it is counter-intuitive; I think so anyway. If you are tripling and adding one to your result half the time and cutting your result in half the other half of the time you would think the number would grow very large eventually.
 
 I put together an Excel workbook with some simple VBA code to run the math and to play with the results. [Collatz Conjecture.xlsm](/files/Collatz Conjecture.xlsm). (let me know if that link does not work) The file uses tables, a worksheet change event to trigger the macro to run when the user changes the starting integer, and a formula in place of the Mod VBA function. The use of the formula in place of Mod is interesting and amounts to the fact that in VBA, Mod takes a Double but converts it to an Integer before calculating the result and thus cannot handle very [large numbers](https://support.microsoft.com/en-us/kb/205053). 
 
