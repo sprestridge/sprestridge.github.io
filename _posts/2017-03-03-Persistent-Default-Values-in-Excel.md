@@ -23,7 +23,7 @@ I like this and the implementation. The Excel file explains things clearly. In o
 
 ![Persistent Default Values](/img/persistent-default-values.png)
 
-Download the file and investigate. I am not going to discuss everything here but the key piece of it all in my mind are the formulas in cells E10:E13 which are really responsible for the persistent default values being displayed to the user. Examining these formulas and understaning what is going on in addition to the other pieces described in the file are key to the whole trick.
+[Download the file](/files/Persistent Default Values.xlsx) and investigate. I am not going to discuss everything here but the key piece of it all in my mind are the formulas in cells E10:E13 which are really responsible for the persistent default values being displayed to the user. Examining these formulas and understaning what is going on in addition to the other pieces described in the file are key to the whole trick.
 
 The formula in cell E10 of this workbook reads:
 
