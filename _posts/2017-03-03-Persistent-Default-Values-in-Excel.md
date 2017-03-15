@@ -41,7 +41,7 @@ Now let's review the TEXT() function and recall that it takes an input (cell H11
 
 ## The REPT Function
 
-The REPT function in Excel is very straightforward. It takes an input and repeats it a specified number of times. In this example the input is a space designated in the formula as " " and the number of times to repeat that is 11. So the REPT function is simply adding 11 spaces on to the end of our resulting text string. The number of spaces needed varies everytime this trick is employed; as developers we need to play with the layout and setup to get things right and adjust the number of spaces so things look visually correct to the end user.
+The REPT function in Excel is very straightforward. It takes an input and repeats it a specified number of times. In this example the input is a space designated in the formula as " " and the number of times to repeat that is 11. So the REPT function is simply adding 11 spaces on to the end of our resulting text string. The number of spaces needed varies everytime this trick is employed; as developers we need to play with the layout and setup to get things right and adjust the number of spaces so things look visually correct to the end user. This is essentially pushing the result of the formula over into the adjacent cell. The formula resides in column E but becuase of the use of the REPT function the result will appear to the user to be located in column D.
 
 ## Custom Number Formatting
 
