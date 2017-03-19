@@ -3,7 +3,7 @@ layout: page
 title: About
 permalink: /about/
 ---
-I am a business consultant educated as a civil (BSCE) and structural (MSCE) engineer with further education in finance (MBA). I analyze data, build tools, author reports, facilitate meetings, and help set policy for government clients. I have been focused on asset managment, cost estimating, and analytics for the past ten years.
+I am a business consultant educated as a civil (BSCE) and structural (MSCE) engineer with further education in finance (MBA). I analyze data, build models and tools, author reports, facilitate meetings, and help drive policy for government clients. I have been focused on capital asset managment, business analysis, cost estimating, and analytics for the past ten years.
 
 ---
 
