@@ -96,7 +96,7 @@ Of course there are positives and negatives to each of these method. Some are ex
 
 ## Cons
 
-- Method 1 relies on OFFSET which is a volatile function. Volatile functions are those whose results cannot be assumed to be the same from one moment to the next even if none of the arguments has changed. Excel reevaluates cells that contain volatile functions, along with all dependents, every time that it recalcultes. In a large data set this method would significantly slow down the model because of this calculation overhead.
+- Method 1 relies on OFFSET which is a volatile function. Volatile functions are those whose results cannot be assumed to be the same from one moment to the next even if none of the arguments has changed. Excel reevaluates cells that contain volatile functions, along with all dependents, every time that it recalculates. In a large data set this method would significantly slow down the model because of this calculation overhead.
 
 - Method 2 relies on VBA code which means the workbook must be macro enabled and the user sophisticated enough to figure out what is wrong and why things are not working as expected if macros happen to be or become disabled.
 
