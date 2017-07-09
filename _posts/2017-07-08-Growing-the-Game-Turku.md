@@ -5,7 +5,7 @@ date:   2017-07-08 16:30:00 -0500
 categories: lacrosse
 ---
 
-Growing the game of lacrosse came full circle for me today as I tuned into the [2017 European Box Lacrosse Championship](http://www.eblc2017.com) taking place in Turku, Finland through X July and listened to [Stephen Stamp](https://twitter.com/StampLax) call the game between host Finland and the Czech Republic in the opening day's final match. I have known several people involved for going on 10 years now and it is all because of lacrosse.
+Growing the game of lacrosse came full circle for me today as I tuned into the [2017 European Box Lacrosse Championship](http://www.eblc2017.com) taking place in Turku, Finland through 15 July and listened to [Stephen Stamp](https://twitter.com/StampLax) call the game between host Finland and the Czech Republic in the opening day's final match. I have known several people involved for going on 10 years now and it is all because of lacrosse.
 
 In 2008 after the MegaMan Lacrosse Club won the Aleš Hřebeský Memorial (AHM) several of us joined Bill Curtis and his Team Rebel in Stockholm, Sweden and Turku, Finland for exhibition lacrosse games. Eight runners and a goalie took on the Turku Titans on 29 April at Marli Areena in the first ever international box lacrosse match on Finnish soil. Our goalie was Ginny Capicchioni, a woman, so that was a first as well. 
 
