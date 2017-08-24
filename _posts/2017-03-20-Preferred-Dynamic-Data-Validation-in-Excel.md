@@ -23,7 +23,7 @@ Range operator is exactly what is needed in this method. Placing the two describ
 
 In the following screen shot from the [example file][file] we see the data table has columns for ID, Class, and Species and the end user should be able to select the desired Class and then get the related Species pick list in the adjacent cell. Both static pick lists are contained on the _TBL02-Species_ worksheet and all tables in the model are [structured tables][3].
 
-![Data Validation via Dynamic Named Range](/img/2017-03-20-Dynamic-Named-Range.png)
+![Data Validation via Dynamic Named Range](/img/2017-03-20-Dynamic-Named-Range.PNG)
 
 Reviewing the INDEX functions on each side of the range operator will illustrate how the final range is being determined. Note that in the screenshot above and the example file the left side of the equation is listed first then the colon and the right side of the colon is listed next on its own line. The INDEX function on the left side of the colon (range operator) is:
 
