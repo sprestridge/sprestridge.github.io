@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Developing-A-Research-Question"
+title: "Coursework: Developing A Research Question"
 date:   2017-09-24 19:16:00 -0500
 tags: training
 ---
