@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Lock Down Workbook"
+title:  "Lock Down an Excel Workbook"
 date:   2016-10-18 16:00:00 -0500
 categories: excel
 ---
