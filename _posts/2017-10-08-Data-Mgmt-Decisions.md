@@ -7,15 +7,17 @@ tags: training
 
 I enrolled in a Coursera course titled '**Data Science + Analytics**'. The third week, _Making Data Management Decisions_ requires a blog post describing the data management decisions made for your project, so this is my post. See below for the program and output.
 
+For this project I am interested in exploring feelings about the criminal justice system and whether a belief that blacks and other minorities are treated the same as whites (or not) is associated with education, religious beliefs, or socio-economic status.
+
 ## Data management decisions
 
-One obvious data management decision for this week's assignment was to focus on education level and use subsets to isolate the data for those with some college education and higher from those with high school or lower educations.
+One obvious data management decision for this week's assignment was to focus on education level and use subsets to isolate the data for those with some college education and higher from those with high school or lower education levels.
 
 Another decision regarding data management was to use a significant amount of formatting to have the tables clearly labeled and have categories assigned that are understandable to humans and not just numbers, i.e., 18-29 for an age category instead of the number 1 in the Age tables.
 
 ## Education level plays a role in the belief that blacks and minorites do not receive equal treatment in the legal system.
 
-According to the data the higher an individuals education level the more likely they are to believe blacks and minorities are not treated equally in the legal system.
+According to the data _the higher an individual's education level the more likely they are to believe blacks and minorities are not treated equally in the legal system_.
 
 Among the 1,375 responses with some college or higher education 54.68% (736) believe blacks and minorities do not receive equal treatment (categories 6 & 7 on a 7-pt scale). There were 29 missing responses.
 
@@ -23,7 +25,7 @@ However, among the 919 responses with a high school or lower education 42.67% (3
 
 ## Higher levels of education also lead to higher levels of trust in the legal system.
 
-The data indicates that increased levels of education lead to higher levels of trust in the legal system.
+The data indicates that _increased levels of education lead to higher levels of trust in the legal system_.
 
 Among the 1,375 responses with some college or higher education 39.48% (531) trust the legal system just about always or most of the time (categories 1 & 2). There were 30 missing responses.
 
@@ -37,15 +39,15 @@ There are frequency distribution tables shown in the results for Age distributio
 
 According to the frequency distribution tables for this question those with lower levels of education are more likely to think places of worship should be involved in politics. Among the 919 responses with high school educations or less, 9.2% strongly agreed that places of worship should be involved in politics (there were 57 missing responses). For the 1,375 individuals with some college or higher levels of education, 8% strongly agreed that places of worship should be involved in politics (there were 42 missing responses).
 
-## Full Results
+## Full Results and Output
 
-PDFs by education level:
+As we are required to post our output I have provided PDFs by education level:
 
 - [Some college or higher](/files/Week 3 OOL College Plus-results.pdf)
 
 - [High school](/files/Week 3 OOL High School Less-results.pdf)
 
-## Program for come college or higher
+## Program for some college or higher levels of education
 
 Since the two programs are very similar (only one line difference) I am including just the one for the some college education or higher group.
 
@@ -74,7 +76,6 @@ IF W1_K1_C GE 3;*/
 
 /* subset to include trust in legal system 1-always & 2-most times 
 IF W1_K1_C LE 2;*/
-
  
 PROC SORT; by CASEID;
 
