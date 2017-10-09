@@ -39,13 +39,19 @@ There are frequency distribution tables shown in the results for Age distributio
 
 According to the frequency distribution tables for this question those with lower levels of education are more likely to think places of worship should be involved in politics. Among the 919 responses with high school educations or less, 9.2% strongly agreed that places of worship should be involved in politics (there were 57 missing responses). For the 1,375 individuals with some college or higher levels of education, 8% strongly agreed that places of worship should be involved in politics (there were 42 missing responses).
 
-## Full Results and Output
+## Full Results and Sample Output
 
-As we are required to post our output I have provided PDFs by education level:
+As we are required to post the output of the programs used I have provided PDFs by education level:
 
 - [Some college or higher](/files/Week 3 OOL College Plus-results.pdf)
 
-- [High school](/files/Week 3 OOL High School Less-results.pdf)
+- [High school or lower](/files/Week 3 OOL High School Less-results.pdf)
+
+A screenshot of three of the tables for the some college and higher levels of education group is shown below.
+
+![SAS Output - College Plus](/img/2017-10-08 College Plus.png)
+
+<cite>SAS Program Output for the Frequency Procedure, Source: S. Prestridge</cite>
 
 ## Program for some college or higher levels of education
 
@@ -70,12 +76,6 @@ IF W1_K1_C=-1 THEN W1_K1_C=.;
 
 /* subset to include some college or more education */
 IF PPEDUCAT GE 3;
-
-/* subset the data to include no trust in legal system 3-sometimes & 4-never
-IF W1_K1_C GE 3;*/
-
-/* subset to include trust in legal system 1-always & 2-most times 
-IF W1_K1_C LE 2;*/
  
 PROC SORT; by CASEID;
 
