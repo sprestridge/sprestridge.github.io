@@ -1,13 +1,13 @@
 ---
 layout: post
 title: "Coursework: Visualizing Data"
-date:   2017-10-16 17:16:00 -0500
+date:   2017-10-15 17:16:00 -0500
 tags: training
 ---
 
 The univariate graph of trust in the legal system is shown below. The graph is unimodal with the peak at the median category of 3 ('Only some of the time'). It seems to be skewed left as there are higher frequencies in the higher than the lower categories.
 
-![SAS Output - Trust in Legal System](/img/2017-10-08 Trust.png)
+![SAS Output - Trust in Legal System](/img/2017-10-16 Trust.png)
 
 <cite>Univariate graph - Trust in Legal System, Source: S. Prestridge</cite>
 
@@ -23,7 +23,8 @@ Generally the variables focused on here are qualitative not quantitative so my p
 
 <cite>Graph - Equal Treatment in the Legal System and Age, Source: S. Prestridge</cite>
 
-![SAS Output - Equal Treatment and Education](/img/2017-10-08 Treatment Education.png)
+
+![SAS Output - Equal Treatment and Education](/img/2017-10-16 Treatment Education.png)
 
 <cite>Graph - Equal Treatment in the Legal System and Education, Source: S. Prestridge</cite>
 
@@ -47,10 +48,10 @@ IF W1_K1_C=-1 THEN W1_K1_C=.;
 IF PPEDUCAT LE 2; */
 
 /* subset the data to include no trust in legal system 3-sometimes & 4-never
-IF W1_K1_C GE 3;*/
+IF W1_K1_C GE 3; */
 
 /* subset to include trust in legal system 1-always & 2-most times 
-IF W1_K1_C LE 2;*/
+IF W1_K1_C LE 2; */
 
 IF PPEDUCAT LE 2 THEN PPEDUCATgroup=1;
 ELSE IF PPEDUCAT GE 3 THEN PPEDUCATgroup=2;
@@ -63,25 +64,11 @@ PROC FORMAT;
     1-2='Trust'
     3-high='Mistrust';
 
-/* old breakout
-    1='Just About Always'
-    2='Most of the time'
-    3='Only some of the time'
-    4-high='Never';
-*/
-
 /* formatting for PPEDUCAT - Education Level */
 PROC FORMAT;
     value PPEDUCAT_groups
     1-2='High School or lower'
     3-high='Some college or higher';
-
-/*  old breakout
-    1='Less than high school'
-    2='High School'
-    3='Some college'
-    4-high='Bachelor degree or higher';
-*/
 
 /* formatting for W1_K4 - Treated Same as Whites table */
 PROC FORMAT;
