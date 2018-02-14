@@ -5,6 +5,8 @@ date:   2017-03-14 17:30:00 -0500
 categories: excel
 ---
 
+**UPDATE**: Preferred method described a week later in this [post](/excel/2017/03/20/Preferred-Dynamic-Data-Validation-in-Excel.html). I have left the following here for posterity.
+
 The ability to have dynamic pick lists in an Excel model presents itself frequently enough that I am writing up two methods for achieving it. Specifically, I recently received a request to implement data validation with a dynamically changing pick list based on the data contained in each record. The client had a very large list that was to serve as the source for the pick lists but only a portion of the list was valid for a given record in the data table based on which field was tagged for that record. I realized pretty quickly that a named range defined with the OFFSET function might work even though the client approached us about developing a VBA macro based solution. Both were relatively straightforward but tricky enough that I thought it would be worthwhile documenting them and providing an example file.
 
 In the example workbook, [Dynamic Data Validation.xlsm](/files/Dynamic Data Validation.xlsm), the data resides on a worksheet titled _Data_ and is setup as a Structured Table with the name *tbl_data*. The required data validation is to occurr in colums J and K, SystemValue and Value respectively. The list used for data validation is stored on the worksheet titled _PAR03-List_ (short for parameters) in a Structured Table with the name *tbl_list*.
