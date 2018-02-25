@@ -11,17 +11,22 @@ For this exercise, I will examine the relationship between a country's wealth an
 
 Using a scatter plot to visualize the data is the first step. The graph below indicates a positive relationship between GDP per capita and life expectancy. The relationship appears to follow a curvilinear (non-linear) pattern so a large correlation coefficient, r, is not expected as the Pearson correlation coefficient is meant to measure linear relationships.
 
+
 ![SAS Output - Scatter Plot - GDP per capita v life expectancy](/img/2018-02-24-ScatterPlot.png)
+
+<cite>SAS Output: Scatter Plot - GDP per capita v Life Expectancy, Source: S. Prestridge</cite>
 
 Reviewing the output tables shows the Pearson correlation coefficient, _r, is equal to 0.60 (moderate strength)_ with a _p-value less than 0.0001 so the correlation also holds for the population_. r-squared is equal to 0.36 which means that _36% of the variability in life expectancy can be explained by the variation in GDP per capita_.
 
 ![SAS Output - Pearson correlation coefficient table - GDP per capita v life expectancy](/img/2018-02-24-Pearson.png)
 
+<cite>SAS Output: Pearson correlation coefficient tables - GDP per capita v Life Expectancy, Source: S. Prestridge</cite>
+
 Full results available as a [PDF](/files/Week_3_Pearson_Results.pdf)
 
 ## SAS Program Code
 
-Full code of my SAS program is shown below.
+Full code of the SAS program is shown below.
 
 ``` SAS
 LIBNAME mydata "/courses/d1406ae5ba27fe300" access=readonly;
@@ -39,9 +44,9 @@ proc corr; var lifeexpectancy incomeperperson;
 run;
 ```
 
-## Bonus material
+## Bonus material - Outlook on Life analysis
 
-Just to see what the results would be I examined Pearson correlation coefficients for several of the Outlook on Life variables that are part of my original research. The first two were the original questions I was interested in.
+Just to see what the results would be I examined Pearson correlation coefficients for several of the Outlook on Life variables. The first two were the original questions I was interested in.
 
 - **W1_K4**: "Are blacks & other minorities treated the same as whites in the criminal justice system?"
 
@@ -62,3 +67,5 @@ See the results table below.
 General findings are that although there are several variables with p-values less than 0.0001, indicating statistical significance for the population, there are few strongly correlated variables as indicated by r - the Pearson correlation coefficient. The largest r-value of 0.45 for personal income and education indicates a moderate strength relationship and yields an r-squared of 0.20 which means only 20% of the variability in personal income can be explained by the variation in education. Regarding the original two questions - belief that blacks and minorities are treated the same as whites in the criminal justice system and general trust in the legal system, _neither appears to be strongly correlated with age, education, income, living with someone convicted of a crime, feelings toward white people or people in jail, or attendance of religious services_.
 
 ![SAS Output - Pearson correlation coefficient table - OOL Data](/img/2018-02-24-Pearson-OOL.png)
+
+<cite>SAS Output: Pearson correlation coefficient tables - Outlook on Life, Source: S. Prestridge</cite>
