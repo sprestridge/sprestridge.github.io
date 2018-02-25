@@ -27,6 +27,9 @@ instagram_username: sprestridge
 
 google_analytics: UA-92883948-1
 
+# try pagination
+paginate: 10
+
 # Build settings
 markdown: kramdown
 theme: minima
