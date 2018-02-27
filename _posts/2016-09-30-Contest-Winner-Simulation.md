@@ -1,12 +1,12 @@
 ---
 layout: post
 title:  "Excel Based Contest Simulator"
-date:   2016-09-30 16:00:00 -0500
+date:   2018-02-27 09:30:00 -0500
 categories: excel
 ---
 Occasionally as a modeler with strong Excel and VBA skills, one gets asked to create something outside of the realm of regular client work. These requests can often be fun and I find myself learning things with every solution developed. I was recently asked to help select a random winner of a contest for a clothing brand's Instagram account. I have seen many Instagram posts where the winner is determined by a lot of random scrolling up and down on the contest post until the selector decides to place their finger on the screen and "select" the winner. Being an analyst that is Excel and VBA minded, I wanted something a little more robust, random, repeatable, easy to implement, and accomplished with every data analyst's favorite tool [ he said somewhat sarcastically ], Excel! 
 
-My final solution is shown in the Excel file (Random Contest Winner Simulator 1.0.xlsm). Here's why I like it and what others might find useful:
+My final solution is shown in the Excel file [(Random Contest Winner Simulator 1.0.xlsm)](/files/Random Contest Winner Simulator 1.0.xlsm). Here's why I like it and what others might find useful:
 
 - **Formatted Excel Table**: This makes adding and deleting rows relatively simple and carries with it standard formatting and formulas that will remain even if the user deletes all the rows of the table. Yes - go ahead and try it. Delete all the rows (you might want to save the list of names somewhere first). Paste a new list of names (doesn't matter how many) into the first column and you'll see the table automatically expand to the correct size with the formulas populated and formatting applied. Run a contest. Boom, winner and nicely formatted table.
 
