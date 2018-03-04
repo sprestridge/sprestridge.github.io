@@ -23,7 +23,7 @@ For the 45-59 age group, trust in the legal system is not significant (p = 0.495
 
 Finally, for the 60+ age group, trust in the legal system is signifcant, F (3, 677) = 2.66, p = 0.0473.
 
-So overall, it appears that education does moderate the relationship between trust in the legal system and age.
+**So overall, it appears that education does moderate the relationship between trust in the legal system and age.**
 
 ## Does age moderate the relationship between trust in the legal system and education?
 
