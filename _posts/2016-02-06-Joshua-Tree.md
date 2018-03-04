@@ -1,8 +1,8 @@
 ---
 layout: post
-title: Finding yourself in Joshua Tree National Park
+title:  Finding yourself in Joshua Tree National Park
 date:   2016-02-06 09:00:00 -0500
-tags: findyourpark
+tags:   findyourpark
 ---
 
 ![Joshua Tree](/img/joshua-tree.jpg)
@@ -68,7 +68,7 @@ Note: This post originally appeared on [Medium](https://medium.com/p/42ec007f672
 7. [Jefferson National Expansion Monument](https://medium.com/p/d537e87ae672)
 8. [Monocacy National Battlefield](https://medium.com/p/5ef2910c118b)
 9. [Prince William Forest Park](https://medium.com/p/b307aedfed2)
-10. [You can run America’s Parks](https://en.wikipedia.org/wiki/Gateway_National_Recreation_Area)
+10. [You can run America’s Parks](https://medium.com/p/c405333a64fb)
 11. [Gateway National Recreation Area](https://medium.com/p/a29761c6c097)
 
 **References**
