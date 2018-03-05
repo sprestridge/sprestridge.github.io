@@ -112,11 +112,11 @@ RUN;
 ## Summary of Outlook on Life data in this analysis
 
 **W1_K1_C - How much do you think you can trust the legal system?**
-1 - just about always
-2 - most of the time
-3 - some of the time
-4 - never
--1 - refused 
+- 1 - just about always
+- 2 - most of the time
+- 3 - some of the time
+- 4 - never
+- -1 - refused 
 
 Based upon 2,230 valid cases out of 2,294 total cases.
 
