@@ -27,7 +27,15 @@ Finally, for the 60+ age group, trust in the legal system is signifcant, F (3, 6
 
 ## Does age moderate the relationship between trust in the legal system and education?
 
-Write up of this analysis to be completed at a later time. I think the first analysis is enough to earn a passing grade on the assignment.
+_Note: Write up of this analysis to be edited / completed at a later time. I think the first analysis is enough to earn a passing grade on the assignment._
+
+For the 18-29 age group, trust in the legal system by education level is significant, F (1, 376) = 16.86, p < 0.0001. The mean of 2.98 for those with high school or lower levels of education is significantly higher than the 2.66 for those with some college or higher levels indicating _higher levels of mistrust for the legal system among young people with high school or lower levels of education._
+
+For the next age group, 30-44 yrs old, is also significant, F (1, 469) = 18.95, p < 0.001. Here again the mean for lower levels of education is higher than for higher levels of education, 2.93 vs. 2.63, indicating _higher levels of mistrust for the legal system among this age cohort for those with high school or lower levels of education._
+
+None of the other age groups showed significance.
+
+**So overall, it appears that age does moderate the relationship between trust in the legal system and education levels.**
 
 ## SAS Program Code
 
@@ -112,22 +120,22 @@ RUN;
 ## Summary of Outlook on Life data in this analysis
 
 **W1_K1_C - How much do you think you can trust the legal system?**
-- 1 - just about always
-- 2 - most of the time
-- 3 - some of the time
-- 4 - never
-- -1 - refused 
+- 1 = just about always
+- 2 = most of the time
+- 3 = some of the time
+- 4 = never
+- -1 = refused 
 
 Based upon 2,230 valid cases out of 2,294 total cases.
 
 **PPAGECT4**
-- 1 18-29
-- 2 30-44
-- 3 45-59
-- 4 60+
+- 1 = 18-29
+- 2 = 30-44
+- 3 = 45-59
+- 4 = 60+
 
 **PPEDUCAT**
-- 1 Less than high school
-- 2 High school
-- 3 Some college
-- 4 Bachelor or higher
+- 1 = Less than high school
+- 2 = High school
+- 3 = Some college
+- 4 = Bachelor or higher
