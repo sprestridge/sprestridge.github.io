@@ -12,5 +12,4 @@ I ask myself this question a lot as I review presentations, final reports, and c
 [INSERT BAR GRAPH]
 
 
-
 [INSERT SLOPE GRAPH]
