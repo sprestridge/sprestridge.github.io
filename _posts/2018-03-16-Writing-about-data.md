@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Data Analysis and Interpretation: Writing about data"
-date:   2018-03-16 18:16:00 -0500
+date:   2018-03-16 12:16:00 -0500
 categories: training
 ---
 
