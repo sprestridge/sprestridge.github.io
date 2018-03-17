@@ -9,11 +9,9 @@ I am a business consultant educated as a civil (BSCE) and structural (MSCE) engi
 
 This is a static site that uses a Jekyll and GitHub Pages. You can find out more info about customizing Jekyll themes, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
 
-You can find the source code for Jekyll at
-{% include icon-github.html username="jekyll" %} /
+You can find the source code for Jekyll at:
 [jekyll](https://github.com/jekyll/jekyll)
 
-You can find the source code for the Jekyll theme at:
-{% include icon-github.html username="jekyll" %} /
+You can find the source code for Minima at:
 [minima](https://github.com/jekyll/minima)
 
