@@ -5,9 +5,9 @@ date:   2018-03-04 19:16:00 -0500
 categories: training
 ---
 
-Previous [ANOVA analysis](/training/2018/02/11/ANOVA.html) of the '_Outlook on Life_' survey data on the question of trust in the legal system (**W1_K1_C** - how much do you think you can trust the legal system) revealed statistical significance for age (**PPAGECT4**) and education level (**PPEDUCAT**). See the very bottom of this post for a summary of the variables. Duncan post hoc comparisons revealed that younger people (18-29) are statistically more likely to distrust the legal system than the other age groups. Post hoc comparisons also showed statistical significance for education levels with those having more education slightly more likely to trust the legal system. 
+Previous [ANOVA analysis](/training/2018/02/11/ANOVA.html) of the '_Outlook on Life_' survey data on the question of trust in the legal system (**W1_K1_C** - how much do you think you can trust the legal system) revealed statistical significance for age (**PPAGECT4**) and education level (**PPEDUCAT**). See the bottom of this post for a summary of the variables. Duncan post hoc comparisons revealed that younger people (18-29) are statistically more likely to distrust the legal system than the other age groups. Post hoc comparisons also showed statistical significance for education levels with those having more education slightly more likely to trust the legal system. 
 
-Now, the interaction of a third variable is considered to determine if there is moderation of the relationships by the third variable. The third variable is investigated to see if it affects the direction and or strength of the relation between the explanatory (**W1_K1_C**) and response (**PPAGECT4** and **PPEDUCAT**)variables. First, I examined whether education affected the direction or strength of the relationship between trust in the legal system and age. Second, I examined whether age affected the direction or strength of the relationship between trust in the legal system and education.
+Now, the interaction of a third variable is considered to determine if there is moderation of the relationships by the third variable. The third variable is investigated to see if it affects the direction and/or strength of the relation between the explanatory (**W1_K1_C**) and response (**PPAGECT4** and **PPEDUCAT**) variables. First, I examined whether education affected the direction or strength of the relationship between trust in the legal system and age. Second, I examined whether age affected the direction or strength of the relationship between trust in the legal system and education.
 
 The first analysis looks at whether trust in the legal system and age are associated across all education levels. The second analysis examines whether trust in the legal system and education are associated across all age groups.
 
@@ -23,11 +23,9 @@ For the 45-59 age group, trust in the legal system is not significant (p = 0.495
 
 Finally, for the 60+ age group, trust in the legal system is signifcant, F (3, 677) = 2.66, p = 0.0473.
 
-**So overall, it appears that education does moderate the relationship between trust in the legal system and age.**
+**It appears that education does moderate the relationship between trust in the legal system and age.**
 
 ## Does age moderate the relationship between trust in the legal system and education?
-
-_Note: Write up of this analysis to be edited / completed at a later time. I think the first analysis is enough to earn a passing grade on the assignment._
 
 For the 18-29 age group, trust in the legal system by education level is significant, F (1, 376) = 16.86, p < 0.0001. The mean of 2.98 for those with high school or lower levels of education is significantly higher than the 2.66 for those with some college or higher levels indicating _higher levels of mistrust for the legal system among young people with high school or lower levels of education._
 
@@ -35,11 +33,11 @@ For the next age group, 30-44 yrs old, is also significant, F (1, 469) = 18.95, 
 
 None of the other age groups showed significance.
 
-**So overall, it appears that age does moderate the relationship between trust in the legal system and education levels.**
+**It appears that age does moderate the relationship between trust in the legal system and education levels.**
 
 ## SAS Program Code
 
-Full code of my SAS program is shown below.
+Full code for the SAS program shown below.
 
 ``` SAS
 LIBNAME mydata "/courses/d1406ae5ba27fe300 " access=readonly;
@@ -117,7 +115,7 @@ RUN;
 ```
 
 
-## Summary of Outlook on Life data in this analysis
+## Summary of 'Outlook on Life' survey data used in this analysis
 
 **W1_K1_C - How much do you think you can trust the legal system?**
 - 1 = just about always
