@@ -39,6 +39,6 @@ The measure of trust in the legal system was drawn from the responses to a quest
 - Only some of the time
 - Never
 
-The measure of whether participants believe that blacks and other minorities are treated the same as whites in the criminal justice system was drawn from responses to that question (W1\_K4). The question is categorical and divides responses into a seven point scale from _'1 - Receive equal treatment'_ to _'7 - Do not receive equal treatment'_.
+The measure of whether participants believe that blacks and other minorities are treated the same as whites in the criminal justice system was drawn from responses to that question (W1\_K4 in the survey). The question is categorical and divides responses into a seven point scale from _'1 - Receive equal treatment'_ to _'7 - Do not receive equal treatment'_.
 
 Other standard measures used included age, income, race / ethnicity, and education.
