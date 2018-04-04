@@ -20,7 +20,7 @@ Two good points in the article - Schreiber doesn’t take penalties and ranking 
 - teams can protect 10 runners + 1 goalie or 11 runners
 - teams can’t lose more players than the number of teams participating in the expansion draft (2 next year)
 
-I am glad that USLacrosse has taken a larger interest in box lacrosse as evidenced by the increased number of box sessions at the convention and the recent Blue-White scrimmage by the men's team. Continued solid covereage like this by [USLacrosse Magazine](https://www.uslaxmagazine.com/pro/nll) is good for the sport and should help to grow the game (#GrowTheGame).
+I am glad that US Lacrosse has taken a larger interest in box lacrosse as evidenced by the increased number of box sessions at the convention and the recent Blue-White scrimmage by the men's team. Continued solid covereage like this by [USLacrosse Magazine](https://www.uslaxmagazine.com/pro/nll) is good for the sport and should help to grow the game (#GrowTheGame).
 
 Also, kudos to Buffalo on those sharp, fresh uniforms they sported this weekend. Classic and simple - so refreshing - I think they should become permanent additions.
 
