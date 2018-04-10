@@ -2,7 +2,7 @@
 layout: post
 title:  "NLL Notebook"
 date:   2018-02-06 09:00:23 -0500
-categories: lacross nll
+categories: lacrosse nll
 ---
 
 ### [NLL Notebook: Rush Sweep, Del Bianco Shines and Byrne Breaks Loose | US Lacrosse Magazine](https://www.uslaxmagazine.com/pro/nll/nll-notebook-rush-sweep-del-bianco-shines-and-byrne-breaks-loose)
