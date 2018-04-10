@@ -2,7 +2,7 @@
 layout: post
 title: Loving our parks to death
 date:  2018-03-02 08:00:00 -0500
-tags: findyourpark
+tags: findyourpark nps
 ---
 
 [![Sunset over the Grand](https://c1.staticflickr.com/9/8364/29118938502_f644421ecd_h.jpg)](https://www.flickr.com/photos/prestridge/29118938502/in/datetaken-public/)
