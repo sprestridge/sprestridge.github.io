@@ -2,7 +2,7 @@
 layout: post
 title: "Coursework: Visualizing Data"
 date:   2017-10-15 17:16:00 -0500
-tags: training
+categories: training
 ---
 
 The univariate graph of trust in the legal system is shown below. The graph is unimodal with the peak at the median category of 3 ('Only some of the time'). It seems to be skewed left as there are higher frequencies in the higher than the lower categories.
