@@ -2,7 +2,7 @@
 layout: post
 title: "Coursework: Developing A Research Question"
 date:   2017-09-24 19:16:00 -0500
-tags: training
+categories: training
 ---
 
 I enrolled in a Coursera course titled '**Data Science + Analytics**' to gain some training. The first lesson, _Steps in Data Analysis_ requires a blog post for getting a research project started so this is my post.
