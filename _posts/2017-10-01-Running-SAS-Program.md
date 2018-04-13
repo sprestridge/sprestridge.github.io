@@ -2,7 +2,7 @@
 layout: post
 title: "Coursework: Running a SAS Program"
 date:   2017-10-01 19:16:00 -0500
-tags: training
+categories: training
 ---
 
 I enrolled in a Coursera course titled '**Data Science + Analytics**'. The second lesson, _Software Setup and Supporting Materials_ requires a blog post for running your first program, so this is my post. See below for the program and output.
