@@ -2,7 +2,7 @@
 layout: post
 title: "Coursework: Making Data Management Decisions"
 date:   2017-10-08 15:16:00 -0500
-tags: training
+categories: training
 ---
 
 I enrolled in a Coursera course titled '**Data Science + Analytics**'. The third week, _Making Data Management Decisions_ requires a blog post describing the data management decisions made for your project, so this is my post. See below for the program and output.
