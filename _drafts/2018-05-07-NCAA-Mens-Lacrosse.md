@@ -38,7 +38,13 @@ With a relatively small field of 17 teams, there is not a lot of wiggle room for
 
 The full process including timelines, criteria, and instructions is detailed by the [NCAA selection document.](http://assets.insidelacrosse.com/docs/di-men-lax-selection_process.pdf)
 
-It is interesting to note that the actual selection process outlined in the official document states "No computer program that is based on pure numbers can take into account the subjective concepts (e.g., how well a team is playing down the stretch, what the loss or return or a top player means to a team or how emotional a specific conference game may be)." Except for LaxFilmRooms [computer model](https://twitter.com/LaxFilmRoom/status/993306626634510336).
+It is interesting to note that the actual selection process outlined in the official document states "No computer program that is based on pure numbers can take into account the subjective concepts (e.g., how well a team is playing down the stretch, what the loss or return or a top player means to a team or how emotional a specific conference game may be)." Except for LaxFilmRoom's [computer model](https://twitter.com/LaxFilmRoom/status/993306626634510336).
 
 [![Machine-Learning NCAA DI Mens Lacrosse Bracket](https://pbs.twimg.com/media/DcjvDUxWsAA63of.jpg)](https://pbs.twimg.com/media/DcjvDUxWsAA63of.jpg)
 <cite>Machine Learning 2018 NCAA DI Mens Lacrosse Bracket, Source: Patrick McEwan, @LaxFilmRoom</cite>
+
+In the Inside Lacrosse article, ['How and why an algorithm predicted the NCAA tournament bracket better than anyone'](http://www.insidelacrosse.com/article/how-and-why-an-algorithm-predicted-the-ncaa-tournament-bracket-better-than-anyone/52207), Patrick McEwen [(@LaxFilmRoom)](https://twitter.com/LaxFilmRoom) describes how his algorithm was able to correctly pick the 2018 tournament field. Using data going back to 2011 to train the model Patrick was able to predict the field with a high level of accuracy.
+
+## ELO Ratings for Lacrosse
+
+Finally, I stumbled upon [Lacrosse Reference](https://lacrossereference.com/), a website dedicated to lacrosse analytics. While only established for the 2017 season there are several interesting things on the site like the ELO ratings (detailed [here](https://lacrossereference.com/2017/04/25/introducing-elo-college-lacrosse/)) and the live [win probabilities](https://lacrossereference.com/game-win-probabilities/cornell_syracuse_20180513/).
