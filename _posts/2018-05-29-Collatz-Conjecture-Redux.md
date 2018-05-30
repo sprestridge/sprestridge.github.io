@@ -1,0 +1,66 @@
+---
+layout: post
+title:  "Collatz Conjecture Redux"
+date:   2018-05-29 11:00:00 -0500
+categories: python data-science
+---
+
+Remember the Collatz Conjecture which posits that any positive integer, n, will eventually reduce to one if you divide the integer by 2 (n/2) if the integer is even and multiply by 3 and add 1 (3n+1) if the integer is odd? The result is repeated until eventually you land on 1. Turns out that in addition to being an [interesting exercise](2016-08-10-Collatz-Conjecture.md) for an Excel workbook and some simple VBA code the Collatz Conjecture lends itself to being a python programming exercise.
+
+I put together a [Jupyter notebook](/files/collatz-conjecture.ipynb) with some code that will run any user entered integer, store the result in a data frame, and plot the output on a graph.
+
+Enjoy.
+
+![collatz-conjecture-graph-120021](/img/collatz-conjecture.png)
+
+```py
+# collatz.py
+# define a function that is the collatz conjecture - any positive integer will eventually reach 1
+# n is even: n/2
+# n is odd: 3n + 1
+# HOTPO - half or triple plus one indefinitely
+def collatz(number):
+    if number % 2 == 0:
+#        print(number // 2)
+        return number // 2
+
+    elif number % 2 == 1:
+        result = 3 * number + 1
+#        print(result)
+        return result
+
+import pandas as pd
+
+# setup for plotting
+from matplotlib import pyplot as plt
+import seaborn as sns
+plt.style.use('fivethirtyeight')
+%matplotlib inline
+
+collatz_list = []
+pd.set_option('display.float_format', '{:,}'.format)
+
+# prompt user
+try:
+    n = input("Enter number: ")
+    seed = n
+    while n != 1:
+        collatz_list.append(int(n))
+        n = collatz(int(n))
+    print('your list of collatz integers is: ');
+    print(collatz_list);
+    print();
+    print('steps to reach 1: ');
+    print(len(collatz_list));    
+    print();
+    print('max number: ')
+    print(max(collatz_list));
+    df_collatz = pd.DataFrame(collatz_list)
+    plt.plot(df_collatz)
+    plt.title('Collatz Conjecture for ' + str(seed) + ' | Graph of Ingtegers', y=1.01)
+    plt.xlabel('Index')
+    plt.ylabel('Integer')
+    
+except ValueError:
+    print('whoops, type an integer next time, neo.')
+```
