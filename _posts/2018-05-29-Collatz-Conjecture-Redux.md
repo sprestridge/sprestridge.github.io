@@ -7,7 +7,7 @@ categories: python data-science
 
 Remember the Collatz Conjecture which posits that any positive integer, n, will eventually reduce to one if you divide the integer by 2 (n/2) if the integer is even and multiply by 3 and add 1 (3n+1) if the integer is odd? The result is repeated until eventually you land on 1. Turns out that in addition to being an [interesting exercise]({{ site.baseurl }}{% link _posts/2016-08-10-Collatz-Conjecture.md %}) for an Excel workbook and some simple VBA code the Collatz Conjecture lends itself to being a python programming exercise.
 
-I put together a [Jupyter notebook](/files/collatz-conjecture.ipynb) with some code that will run any user entered integer, store the result in a data frame, and plot the output on a graph.
+I put together a [Jupyter notebook](http://nbviewer.jupyter.org/github/sprestridge/sprestridge.github.io/blob/88a2c76827bcc3d5d8e9d385a56b54d8f22f2647/files/collatz-conjecture.ipynb) with some code that will run any user entered integer, store the result in a data frame, and plot the output on a graph.
 
 Enjoy.
 
