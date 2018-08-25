@@ -5,6 +5,7 @@ It is automatically transformed by [Jekyll](http://github.com/mojombo/jekyll) in
 The following directories and their contents are Copyright Scott Prestridge. You **may not reuse anything** therein without my permission:
 
 - _posts/
+- _drafts/
 - img/
 - files/
 
