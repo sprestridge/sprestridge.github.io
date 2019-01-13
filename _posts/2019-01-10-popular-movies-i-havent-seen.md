@@ -1,13 +1,13 @@
 ---
 layout: post
-title:  "Collatz Conjecture Redux"
+title:  "Movies I Haven't Seen"
 date:   2019-01-10 19:25:00 -0500
 categories: movies
 ---
 
-OK, I will play along. I stumbled upon Pat Murray's post who stumbled upon Maro Arment's 2015 post titled ["_Popular movies I haven's seen in the last 15 years_"](https://marco.org/2015/04/11/popular-movies-i-havent-seen). Pat's post ["Popular Movies I Haven't Seen: Or trends in movie viewing habits"](https://patmurray.co/words/popular-movies-i-havent-seen) struck a nerve because I was just asked to name my favorite 2018 movie during one of those "introduce yourself" moments that occurs at the start of some meetings or classes so eveyone can get to know one another. Problem was, I was stumped. I eventually settled on **The Incredibles 2** but I am not sure that is really the answer.
+OK, I will play along. I stumbled upon Pat Murray's post who stumbled upon Maro Arment's 2015 post titled ["_Popular movies I haven's seen in the last 15 years_"](https://marco.org/2015/04/11/popular-movies-i-havent-seen). Pat's post ["_Popular Movies I Haven't Seen: Or trends in movie viewing habits_"](https://patmurray.co/words/popular-movies-i-havent-seen) struck a nerve because I was just asked to name my favorite 2018 movie during one of those "introduce yourself" moments that occurs at the start of some meetings or classes so eveyone can get to know one another. Problem was, I was stumped. I eventually settled on **The Incredibles 2** but I am not sure that is really the answer.
 
-Full confession - I also enjoy Pat's 'Year in Numbers' posts like [this one from 2017](https://2017.patmurray.co).
+Full confession - I also enjoy Pat's 'Year in Numbers' posts, like [this one from 2017](https://2017.patmurray.co).
 
 I will update this post once awards season is over (end of February after the host-less 91st Academy Awards).
 
@@ -16,7 +16,7 @@ Key: **Seen it**, Haven't seen it
 
 ### 2000
 
-(9 **seen** out of 14)
+(**9 seen** out of 14)
 
 - **Meet the Parents**
 
@@ -50,7 +50,7 @@ Key: **Seen it**, Haven't seen it
 
 ### 2001
 
-(9 **seen** out of 14)
+(**9 seen** out of 14)
 
 - **Harry Potter and the Philosopher’s Stone**
 
@@ -84,7 +84,7 @@ Key: **Seen it**, Haven't seen it
 
 ### 2002
 
-(10 **seen** out of 14)
+(**10 seen** out of 14)
 
 - **Die Another Day**
 
