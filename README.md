@@ -9,4 +9,4 @@ The following directories and their contents are Copyright Scott Prestridge. You
 - img/
 - files/
 
-All other directories and files are MIT Licensed. Feel free to use the HTML and CSS as you please. If you do use them, a link back to http://github.com/sprestridge would be appreciated, but is not required.
+All other directories and files are MIT Licensed. Feel free to use the HTML and CSS as you please. If you do use them, a link back to https://github.com/sprestridge would be appreciated, but is not required.
