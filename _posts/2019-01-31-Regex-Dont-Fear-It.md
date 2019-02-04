@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Regex - Don't Fear It"
-date:   2019-01-31 09:15:00 -0500
+date:   2019-01-31 09:16:00 -0500
 categories: data
 ---
 
