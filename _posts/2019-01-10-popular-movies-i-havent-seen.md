@@ -13,6 +13,8 @@ I will update this post once awards season is over (end of February after the ho
 
 Key: **Seen it**, Haven't seen it
 
+Overall: **167 movies seen** out of 304 movies total - _55% seen it rate_
+
 
 ### 2000
 
