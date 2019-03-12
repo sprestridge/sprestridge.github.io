@@ -2,12 +2,12 @@
 layout: post
 title:  "Regex - Don't Fear It"
 date:   2019-01-31 09:16:00 -0500
-categories: data
+categories: [data, movies]
 ---
 
 Bottom line up front: _I've seen 55% of the top movies from 2000 - 2018_.
 
-I seem to be running into posts about text munging or data scrubbing a lot recently. First I was Jason Snell's [recent article](https://sixcolors.com/post/2019/01/using-bbedit-and-excel-to-revive-a-dead-podcast-feed/) on reviving an old podcast feed in which he describes using the power of Grep pattern-matching, BBEdit, and Excel to reconstruct a podcast RSS feed. Then I saw the good doctor's post - '[Don't fear the regex](https://leancrew.com/all-this/2019/01/dont-fear-the-regex/)' - in which Dr. Drang discusses regular expressions, their power, and the great _"Searching with Grep"_ chapter in the [BBEdit User Manual](https://s3.amazonaws.com/BBSW-download/BBEdit_12.5.2_User_Manual.pdf#page182). Special hat tip to the doctor for the Blue Oyster Cult [reference](https://itunes.apple.com/us/album/dont-fear-the-reaper/217555955?i=217556132).
+I seem to be running into posts about text munging or data scrubbing a lot recently. First it was Jason Snell's [recent article](https://sixcolors.com/post/2019/01/using-bbedit-and-excel-to-revive-a-dead-podcast-feed/) on reviving an old podcast feed in which he describes using the power of Grep pattern-matching, BBEdit, and Excel to reconstruct a podcast RSS feed. Then I saw the good doctor's post - '[Don't fear the regex](https://leancrew.com/all-this/2019/01/dont-fear-the-regex/)' - in which Dr. Drang discusses regular expressions, their power, and the great _"Searching with Grep"_ chapter in the [BBEdit User Manual](https://s3.amazonaws.com/BBSW-download/BBEdit_12.5.2_User_Manual.pdf#page182). Special hat tip to the doctor for the Blue Oyster Cult [reference](https://itunes.apple.com/us/album/dont-fear-the-reaper/217555955?i=217556132).
 
 Thanks to the BBEdit User Manual, regular expressions / Grep, and [Sublime Text](https://www.sublimetext.com) I was able to rapidly extract the text I needed from a recent post to determine my personal 'seen it rate' for top movies - 55%.
 
