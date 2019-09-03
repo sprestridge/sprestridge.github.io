@@ -61,9 +61,13 @@ The formula returns a list starting with Lion and ending with Mouse. Exactly wha
 
 
 [ddv]: {{ site.baseurl }}{% link _posts/2017-03-14-Dynamic-Data-Validation.md %}
+
 [file]: /files/Dynamic Picklists.xlsm
+
 [1]: http://blog.excelhero.com/2011/03/21/the_imposing_index/
+
 [2]: https://support.office.com/en-us/article/Calculation-operators-and-precedence-36de9366-46fe-43a3-bfa8-cf6d8068eacc
+
 [3]: https://support.office.com/en-us/article/Using-structured-references-with-Excel-tables-f5ed2452-2337-4f71-bed3-c8ae6d2b276e
 
 
