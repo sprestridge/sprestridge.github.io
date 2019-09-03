@@ -58,7 +58,9 @@ evaluates to
 
 The formula returns a list starting with Lion and ending with Mouse. Exactly what is needed.
 
-[ddv]: /excel/2017/03/14/Dynamic-Data-Validation.html
+
+
+[ddv]: {{ site.baseurl }}{% link _posts/2017-03-14-Dynamic-Data-Validation.md %}
 [file]: /files/Dynamic Picklists.xlsm
 [1]: http://blog.excelhero.com/2011/03/21/the_imposing_index/
 [2]: https://support.office.com/en-us/article/Calculation-operators-and-precedence-36de9366-46fe-43a3-bfa8-cf6d8068eacc
