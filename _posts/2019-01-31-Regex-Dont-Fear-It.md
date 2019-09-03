@@ -11,7 +11,7 @@ I seem to be running into posts about text munging or data scrubbing a lot recen
 
 Thanks to the BBEdit User Manual, regular expressions / Grep, and [Sublime Text](https://www.sublimetext.com) I was able to rapidly extract the text I needed from a recent post to determine my personal 'seen it rate' for top movies - 55%.
 
-In my ['Movies I haven't seen' post](movies/2019/01/11/popular-movies-i-havent-seen.html), I went through the 2000 - 2018 top movies and identified those I had seen and those I had not. Just below each year's heading I had a summary that took a familiar format:
+In my ['Movies I haven't seen' post]({{ site.baseurl }}{% link _posts/2019-01-31-popular-movies-i-havent-seen.md %}), I went through the 2000 - 2018 top movies and identified those I had seen and those I had not. Just below each year's heading I had a summary that took a familiar format:
 
 (**9 seen** out of 14)
 
