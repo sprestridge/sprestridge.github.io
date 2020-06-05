@@ -3,8 +3,12 @@ layout: post
 title:  "Fun with the Collatz Conjecture"
 date:   2016-08-10 16:00:00 -0500
 categories: excel math
+excerpt_separator: <!--more-->
 ---
+
 I had heard about this mathematical tidbit in grad school and forgotten all about it. For some reason it has been making the rounds on the Internet and social media recently and I stumbled upon it again. I think it was this YouTube video I saw most recently from [the Numberphile](http://www.numberphile.com/index.html): 
+
+<!--more-->
 
 Direct Link to YouTube: [https://www.youtube.com/watch?v=5mFpVDpKX70](https://www.youtube.com/watch?v=5mFpVDpKX70)
 

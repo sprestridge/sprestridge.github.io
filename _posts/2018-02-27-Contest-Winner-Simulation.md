@@ -3,8 +3,12 @@ layout: post
 title:  "Excel Based Contest Simulator"
 date:   2018-02-27 09:30:00 -0500
 categories: excel
+excerpt_separator: <!--more-->
 ---
-Occasionally as a modeler with strong Excel and VBA skills, one gets asked to create something outside of the realm of regular client work. These requests can often be fun and I find myself learning things with every solution developed. I was recently asked to help select a random winner of a contest for a clothing brand's Instagram account. I have seen many Instagram posts where the winner is determined by a lot of random scrolling up and down on the contest post until the selector decides to place their finger on the screen and "select" the winner. Being an analyst that is Excel and VBA minded, I wanted something a little more robust, random, repeatable, easy to implement, and accomplished with every data analyst's favorite tool [ he said somewhat sarcastically ], Excel! 
+
+Occasionally as a modeler with strong Excel and VBA skills, one gets asked to create something outside of the realm of regular client work. These requests can often be fun and I find myself learning things with every solution developed. I was recently asked to help select a random winner of a contest for a clothing brand's Instagram account. I have seen many Instagram posts where the winner is determined by a lot of random scrolling up and down on the contest post until the selector decides to place their finger on the screen and "select" the winner. Being an analyst that is Excel and VBA minded, I wanted something a little more robust, random, repeatable, easy to implement, and accomplished with every data analyst's favorite tool, Excel (_he said only somewhat sarcastically_)! 
+
+<!--more-->
 
 My final solution is shown in the Excel file [(Random Contest Winner Simulator 1.0.xlsm)](/files/Random Contest Winner Simulator 1.0.xlsm). Here's why I like it and what others might find useful:
 

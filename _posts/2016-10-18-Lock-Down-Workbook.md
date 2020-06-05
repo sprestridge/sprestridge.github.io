@@ -3,8 +3,12 @@ layout: post
 title:  "Lock Down an Excel Workbook"
 date:   2016-10-18 16:00:00 -0500
 categories: excel
+excerpt_separator: <!--more-->
 ---
+
 Sometimes we are asked by clients to set something up where after a certain date access to the file or tool is limited. Maybe data in the tool becomes outdated and they would like the opportunity to update it and lock users out from using it past the expiration or maybe they just don't want end users to have the full functionality of the tool beyond a certain date. This example workbook provides a method for giving a client just that. I have to credit Dan Schriever for putting the workbook together and the macros – I believe the majority of it was his work which he later showed me and I modified in order to put this example and post together.
+
+<!--more-->
 
 Hope it is useful and something can be learned from it. As with everything in Excel and VBA, I recognize there are plenty of other ways to accomplish the same thing; this represents one solution to a rather specific client request. 
 

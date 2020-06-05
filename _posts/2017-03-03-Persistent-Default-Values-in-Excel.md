@@ -3,9 +3,12 @@ layout: post
 title:  "Persistent Default Values in An Excel Model"
 date:   2017-03-09 09:30:00 -0500
 categories: excel
+excerpt_separator: <!--more-->
 ---
 
 Hat tip to my colleague, Dan Schriever, for this post sparked by one of his posts on Yammer.
+
+<!--more-->
 
 Via Dan:
 

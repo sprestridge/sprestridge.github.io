@@ -2,7 +2,13 @@
 layout: post
 title: Olympic Moments
 tags: default
+excerpt_separator: <!--more-->
+
 ---
+
+Kikkan Randall and Jesse Diggions winning the U.S. women's cross-country medal was one of my favorite moments.
+
+<!--more-->
 
 ## [Kikkan Randall, Jesse Diggins win U.S. women's first cross-country medal - The Washington Post](https://www.washingtonpost.com/sports/olympics/kikkan-randall-has-blazed-a-cross-country-trail-jessie-diggins-followed-it-to-gold/2018/02/21/0293d812-16de-11e8-92c9-376b4fe57ff7_story.html)
 

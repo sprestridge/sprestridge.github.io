@@ -3,6 +3,7 @@ layout: post
 title:  Finding yourself in Joshua Tree National Park
 date:   2016-02-06 09:00:00 -0500
 tags:   findyourpark
+excerpt_separator: <!--more-->
 ---
 
 ![Joshua Tree](/img/joshua-tree.jpg)
@@ -12,6 +13,8 @@ tags:   findyourpark
 >_There is no moment of delight in any pilgrimage like the beginning of it._
 
 <cite>Charles Dudley Warner</cite>
+
+<!--more-->
 
 I am not really sure where or when my pilgrimage began but I know that I have delighted in every moment. Maybe my lifelong love affair with the outdoors started here, at Joshua Tree National Monument. I don’t really know but it seems as good a time and place as any. In January 1994 I took a three week trip to Joshua Tree to camp, rock climb, and learn about myself. Like the ancient prophets seeking isolation, serenity, and freedom from convention the qualities of this arid and unforgiving land drew me in and I came to appreciate the stark beauty contained there. Prior to the trip I had never been in the wilderness for such an extended period of time and I believe the experience of sleeping out in the open under the expanse of the Milky Way and of observing the quiet beauty of the winter desert landscape made me fall forever in love with all places wild and remote.
 

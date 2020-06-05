@@ -3,9 +3,12 @@ layout: post
 title:  "Preferred Method - Dynamic Data Validation in Excel"
 date:   2017-03-20 11:00:00 -0500
 categories: excel
+excerpt_separator: <!--more-->
 ---
 
 There is almost always more than one way to do something in Excel and sometimes an even better way. Last week after writing up two methods for [dynamic data validation][ddv] in Excel a colleague pointed out that a non-volatile solution could use the INDEX function and the range operator to define a named range that would be dynamic because of the formula used to define it. Another colleague pointed out that a simpler example was in order. The file, [_Dynamic Picklists.xlsx_][file], is that example.
+
+<!--more-->
 
 The tip to use INDEX on either side of the range operator (:) is brilliant. When I tested it and showed it to another colleague he remarked "this is evil black magic" and I countered that I thought it was more of a Jedi mind trick ('these are not the droids you are looking for'). Bad references to movie quotes aside, in order to even use the range operator we need something on either side of it to tell Excel where to begin and end the range - and this is where the power of INDEX shines and indeed edges toward evil black magic.
 
