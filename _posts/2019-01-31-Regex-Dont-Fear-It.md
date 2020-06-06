@@ -23,4 +23,6 @@ The regular expression I used in Sublime:
 
 `\(\*\*\d+ seen\*\* out of \d+\)`
 
-did the trick. The first backslash is an escape so that I can search for the opening parens `(`, likewise asterisks need to be escaped as well because they are special characters in Grep. The next trick involves matching the numbers and since I could have a single or double digit number the solution is to match one or more digits using the `+` symbol which is also a special character. Long story short, I ran that regular expression in Sublime Text with a `Find All` and regular expressions, copied the results, and pasted them into a new text file. I did a bit more clean-up and used the final results in Excel for a quick `Text-to-Columns`, sum column manipulation, and then I had my answer. I've seen 55% of the top movies from 2000 - 2018.
+did the trick. The first backslash is an escape so that I can search for the opening parens `(`, likewise asterisks need to be escaped as well because they are special characters in Grep. The next trick involves matching the numbers and since I could have a single or double digit number the solution is to match one or more digits using the `+` symbol which is also a special character. Long story short, I ran that regular expression in Sublime Text with a `Find All` and regular expressions, copied the results, and pasted them into a new text file. I did a bit more clean-up and used the final results in Excel for a quick `Text-to-Columns`, sum column manipulation, and then I had my answer. 
+
+I've seen 55% of the top movies from 2000 - 2018.
