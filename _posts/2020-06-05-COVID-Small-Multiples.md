@@ -6,7 +6,7 @@ categories: [datavis, python]
 excerpt_separator: <!--more-->
 ---
 
-Inspired by my love for small multiples, Horace Dediu's [recent work]](http://www.asymco.com/wp-content/uploads/2020/05/Screen-Shot-2020-05-11-at-7.59.26-AM.jpg) on Asymco, and the pandemic the world is experiencing I decided to put my Python skills to test and produce a small multiples plot of case rates for the United States.
+Inspired by my love for small multiples, Horace Dediu's [recent work](http://www.asymco.com/wp-content/uploads/2020/05/Screen-Shot-2020-05-11-at-7.59.26-AM.jpg) on Asymco, and the pandemic the world is experiencing I decided to put my Python skills to test and produce a small multiples plot of case rates for the United States.
 
 <!--more-->
 
