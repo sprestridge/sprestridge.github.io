@@ -65,7 +65,7 @@ The formula returns a list starting with Lion and ending with Mouse. Exactly wha
 
 [ddv]: {{ site.baseurl }}{% link _posts/2017-03-14-Dynamic-Data-Validation.md %}
 
-[file]: /files/Dynamic Picklists.xlsm
+[file]: /files/Dynamic Picklists.xlsx
 
 [1]: http://blog.excelhero.com/2011/03/21/the_imposing_index/
 
