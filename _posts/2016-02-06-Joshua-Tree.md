@@ -2,7 +2,7 @@
 layout: post
 title:  Finding yourself in Joshua Tree National Park
 date:   2016-02-06 09:00:00 -0500
-tags:   findyourpark
+categories: findyourpark nps
 excerpt_separator: <!--more-->
 ---
 
@@ -45,7 +45,9 @@ Recreational activities in the park abound and include hiking, camping, climbing
 Get outside, do and see more, and enjoy the places that move you, Joshua Tree National Park is one of mine.
 
 ### Facts
+
 - 790,636 acres (slightly larger than Rhode Island) and over half of that area is a designated wilderness area
+
 - habitat for 813 plant species, 40 reptile species, 41 mammal species, and 240 bird species
 
 **Official Name**: Joshua Tree National Park
@@ -60,21 +62,23 @@ Get outside, do and see more, and enjoy the places that move you, Joshua Tree Na
 
 Note: This post originally appeared on [Medium](https://medium.com/p/42ec007f6724) but I am making an effort to host my own writing.
 
-### Other parks in my series (currently linked to Medium but will eventually all be hosted here)
+### Other parks in my series
 
-1. [Acadia National Park](https://medium.com/p/1e3f7836c267)
-2. [Cape Cod National Park](https://medium.com/@sprestridge/cape-cod-national-seashore-9891f4e4647a)
-3. [Martin Luther King, Jr. Memorial](https://medium.com/p/20acaa1af52c)
-4. [Chesapeake & Ohio Canal National Historic Park](https://medium.com/p/a58ca77317c9)
-5. [Joshua Tree National Park](https://medium.com/p/42ec007f6724)
-6. [Morristown National Historical Park](https://medium.com/p/a25bf025d31f)
-7. [Jefferson National Expansion Monument](https://medium.com/p/d537e87ae672)
+1. [Acadia National Park]({% post_url 2016-01-11-Acadia %})
+2. [Cape Cod National Park]({% post_url 2016-01-15-Cape-Cod %})
+3. [Martin Luther King, Jr. Memorial]({% post_url 2016-01-26-MLK-Jr %})
+4. [Chesapeake & Ohio Canal National Historic Park]({% post_url 2016-01-29-CO-Canal %})
+5. [Joshua Tree National Park]({% post_url 2016-02-06-Joshua-Tree %})
+6. [Morristown National Historical Park]({% post_url 2016-02-12-Morristown %})
+7. [Jefferson National Expansion Monument]({% post_url 2016-02-20-Gateway %})
 8. [Monocacy National Battlefield](https://medium.com/p/5ef2910c118b)
 9. [Prince William Forest Park](https://medium.com/p/b307aedfed2)
 10. [You can run America’s Parks](https://medium.com/p/c405333a64fb)
 11. [Gateway National Recreation Area](https://medium.com/p/a29761c6c097)
 
-**References**
+
+
+### References
 
 1. [Joshua Tree National Park - Official NPS site](www.nps.gov/JOTR)
 2. [Joshua Tree National Park: A History of Preserving the Desert](http://www.nps.gov/jotr/learn/historyculture/upload/JOTRAdministrativeHistory.pdf) by Lary M. Dilsaver, March 2015.

@@ -16,28 +16,31 @@ There are several pieces that all work together in this example to allow the use
 
 Get the workbook [here](/files/Lockdown.xlsm)
 
+
 ## Worksheets
 
-1.  Index - this is the main worksheet of the tool and always visible to the end user even past the expiration date.
+1.  **Index** - this is the main worksheet of the tool and always visible to the end user even past the expiration date.
 
-2.  Test Sheet A - this is a "sensitive" worksheet that is only available and visible to the user prior to the expiration date.
+2.  **Test Sheet A** - this is a "sensitive" worksheet that is only available and visible to the user prior to the expiration date.
 
-3.  Test Sheet B - this is a "sensitive" worksheet that is only available and visible to the user prior to the expiration date.
+3.  **Test Sheet B** - this is a "sensitive" worksheet that is only available and visible to the user prior to the expiration date.
 
-4.  P99-Control - this is an administrative worksheet where the controls are set (Sent to, Date Sent, Duration, Contact Name and Information) via named ranges and a combination of administrative entry (blue italicized text) and formulas.
+4.  **P99-Control** - this is an administrative worksheet where the controls are set (Sent to, Date Sent, Duration, Contact Name and Information) via named ranges and a combination of administrative entry (blue italicized text) and formulas.
+
 
 ## Macros
 
-1. cm_Unhide_Control_Sheet() - this custom macro (cm) is the only way to unhide the control sheet because the P99-Control worksheet is set to xlVeryHidden by the "Hide All Sheets" macro. Very Hidden worksheets are not visible to the user when selecting a worksheet and right-clicking to bring up the context menu to Unhide/Hide worksheets. If you are familiar with the VBA editor you can also manually change the property to xlSheetVisible. For ease of use to the developer / admin, a shortcut of Ctrl-Shift-A has been assigned to run this macro.
+1. `cm_Unhide_Control_Sheet()` - this custom macro (cm) is the only way to unhide the control sheet because the P99-Control worksheet is set to xlVeryHidden by the "Hide All Sheets" macro. Very Hidden worksheets are not visible to the user when selecting a worksheet and right-clicking to bring up the context menu to Unhide/Hide worksheets. If you are familiar with the VBA editor you can also manually change the property to xlSheetVisible. For ease of use to the developer / admin, a shortcut of Ctrl-Shift-A has been assigned to run this macro.
 
-2. cm_Unhide_All_Sheets() - custom macro (cm) to unhide all worksheets. Note that this will not unhide the control workhseet.
+2. `cm_Unhide_All_Sheets()` - custom macro (cm) to unhide all worksheets. Note that this will not unhide the control workhseet.
 
-3. cm_Hide_All_Sheets() - custom macro (cm) that hides all worksheets except the Index worksheet and makes them xlVeryHidden. **xlVeryHidden** is a special property that makes it difficult for the user to determine if there are hidden worksheets in a workbook.
+3. `cm_Hide_All_Sheets()` - custom macro (cm) that hides all worksheets except the Index worksheet and makes them xlVeryHidden. **xlVeryHidden** is a special property that makes it difficult for the user to determine if there are hidden worksheets in a workbook.
 
-4. Check_Expiration() - checks to see if the expiration date has passed and if it has sends a message box to the user with custom specified POC information for the tool. If it has not the macro calls the 'unhide all sheets' macro.
+4. `Check_Expiration()` - checks to see if the expiration date has passed and if it has sends a message box to the user with custom specified POC information for the tool. If it has not the macro calls the 'unhide all sheets' macro.
+
 
 ## Events
 
-1. Workbook_BeforeClose - an event that is active for the workbook (ThisWorkbook) that calls the hide all worksheets macro before the file is closed.
+1. `Workbook_BeforeClose` - an event that is active for the workbook (ThisWorkbook) that calls the hide all worksheets macro before the file is closed.
 
-2. Workbook_Open - this event runs on open and checks the expiration date by calling that macro.
+2. `Workbook_Open` - this event runs on open and checks the expiration date by calling that macro.
