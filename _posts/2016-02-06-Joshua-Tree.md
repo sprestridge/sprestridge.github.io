@@ -65,16 +65,25 @@ Note: This post originally appeared on [Medium](https://medium.com/p/42ec007f672
 ### Other parks in my series
 
 1. [Acadia National Park]({% post_url 2016-01-11-Acadia %})
+
 2. [Cape Cod National Park]({% post_url 2016-01-15-Cape-Cod %})
+
 3. [Martin Luther King, Jr. Memorial]({% post_url 2016-01-26-MLK-Jr %})
+
 4. [Chesapeake & Ohio Canal National Historic Park]({% post_url 2016-01-29-CO-Canal %})
+
 5. [Joshua Tree National Park]({% post_url 2016-02-06-Joshua-Tree %})
+
 6. [Morristown National Historical Park]({% post_url 2016-02-12-Morristown %})
+
 7. [Jefferson National Expansion Monument]({% post_url 2016-02-20-Gateway %})
-8. [Monocacy National Battlefield](https://medium.com/p/5ef2910c118b)
-9. [Prince William Forest Park](https://medium.com/p/b307aedfed2)
-10. [You can run America’s Parks](https://medium.com/p/c405333a64fb)
-11. [Gateway National Recreation Area](https://medium.com/p/a29761c6c097)
+
+8. [Monocacy National Battlefield]({% post_url 2016-02-28-Monocacy %})
+
+9. [Prince William Forest Park]({% post_url 2016-03-06-Prince-William-Forest %})
+10. [You can run America’s Parks]({% post_url 2016-03-28-Run-Parks %})
+
+11. [Gateway National Recreation Area]({% post_url 2016-04-17-Gateway %})
 
 
 
