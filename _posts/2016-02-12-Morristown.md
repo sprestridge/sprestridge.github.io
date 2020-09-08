@@ -6,19 +6,23 @@ categories: findyourpark nps
 excerpt_separator: <!--more-->
 ---
 
-![Fort Nonsense](/img/2016-02-12-Fort-Nonsense.jpg)
+![Fort Nonsense](/img/2016-02-12-Fort-Nonsense.jpg "Fort Nonsense")
 
 <cite> Source: NPS. This model is a theoretical representation of the Upper Redoubt built in 1777 by George Washington’s Army, today this area of the park is known as Fort Nonsense. [http://www.nps.gov/morr/learn/historyculture/fortnonsense.htm](http://www.nps.gov/morr/learn/historyculture/fortnonsense.htm)</cite>
 
 Growing up my family would spend most Sundays at my grand parent’s house in Morristown, NJ. The house had an upstairs apartment that my great uncle and great aunt lived in. Just about every week my great uncle would take me out into the woods across the street for a hike and some outdoor activity — I always thought it was to get some of the kids out of everyone’s hair for a bit but looking back I think it was because I liked hiking and being outside and my uncle realized that.
 
+
 <!--more-->
 
+
 Directly across the street from the house was a wall of rocks that formed the edge of the road and represented the boundary of the little stand of trees that I considered a forest at the time. For that matter, the wall of rocks was probably not higher than 6 to 10 feet but seems three times that in my childhood memory. That wall was where I got my first taste of rock climbing and it was also the quickest route to the through-trail that ran up the hill and eventually connected to the parking area and other trails that wound their way up to Fort Nonsense at the top of the mountain (hill). I would often climb the wall and meet my uncle at the top of it where he was patiently waiting for me having taken the long way around — twenty yards away where the trailhead met our street. Then we would progress our way up to Fort Nonsense and back for an afternoon of adventure.
+
 
 > _I am glad I shall never be young without wild country to be young in. Of what avail are forty freedoms without a blank spot on the map?_
 
 <cite>Aldo Leopold</cite>
+
 
 We spent many hours in the woods and on the trails in the Fort Nonsense area — much of it on private property it turns out. My great uncle would tell stories of the confederate troops that wintered there, of dinosaurs, and of anything else he could think of that captured my young, active imagination. Little did I know at the time that Fort Nonsense and nearby Jockey Hollow were both part of the NPS system of parks. They were the blank spots on the map of my childhood even if they were not remote by any stretch of the imagination.
 
@@ -75,6 +79,7 @@ In celebration of the park service’s 100th anniversary, Jockey Hollow will be 
 8. [Monocacy National Battlefield]({% post_url 2016-02-28-Monocacy %})
 
 9. [Prince William Forest Park]({% post_url 2016-03-06-Prince-William-Forest %})
+
 10. [You can run America’s Parks]({% post_url 2016-03-28-Run-Parks %})
 
 11. [Gateway National Recreation Area]({% post_url 2016-04-17-Gateway %})

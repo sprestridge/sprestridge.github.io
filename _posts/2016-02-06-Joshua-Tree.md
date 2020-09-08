@@ -6,7 +6,7 @@ categories: findyourpark nps
 excerpt_separator: <!--more-->
 ---
 
-![Joshua Tree](/img/joshua-tree.jpg)
+![Joshua Tree](/img/joshua-tree.jpg "Joshua Tree")
 
 <cite>Joshua Tree | S. L. Prestridge</cite>
 
@@ -20,25 +20,31 @@ I am not really sure where or when my pilgrimage began but I know that I have de
 
 I explored many of the wonderful areas like the _Wonderland of Rocks, Indian Cove, Hidden Valley, Quail Mountain_ (1,773 m / 5,814 feet), and _Cottonwood Springs_. A favorite memory is a pre-dawn hike up Quail Mountain on New Year’s Day to ensure I caught the very first light of the new year from the summit and celebrate all that lay ahead.
 
-![Descending](/img/descending.jpg)
+
+![Descending](/img/descending.jpg "Descending")
 
 <cite>Descending | S. L. Prestridge</cite>
+
 
 I also enjoyed learning to rock climb by practicing many bouldering routes in various locations throughout the park as well as learning the basic skills of belay climbing (top rope) and a few basic wilderness rescue skills.
 
 I performed a 72-hour solo, setting up camp in a secluded location far from any trail and remained there, alone, for the entire period while fasting and meditating. The experience allowed for deep reflection and further bonded me to this special place—nature had become my refuge, temple, and solace.
 
-![Solo](/img/solo-joshua-tree.jpg)
+
+![Solo](/img/solo-joshua-tree.jpg "Solo")
 
 <cite>Solo | S. L. Prestridge</cite>
+
 
 Proclaimed a National Monument in 1936 by President Franklin D. Roosevelt Joshua Tree was administered by the superintendent of Yosemite National Park until 1940 when the monument gained its first superintendent. It did not become a National Park until October 31, 1994 as part of the Desert Protection Act proposed by Senator Dianne Feinstein and signed into law by President Bill Clinton.
 
 Joshua Tree was set aside to protect natural resources unique to the three ecosystems that converge within the boundaries: the Colorado Desert, an extension of the Sonoran Desert; the Mojave Desert along the northern boundary of the park which provides the habitat for the park’s namesake, the Joshua tree; and the Little San Bernardino Mountains on the western edge of the park which provide habitat for California juniper and pinyon pine.
 
+
 >_I speak for the trees._
 
 <cite>Dr. Seus, The Lorax</cite>
+
 
 Recreational activities in the park abound and include hiking, camping, climbing, driving, birding, and astronomy. The park is well known for its dark skies and is a popular southern California location for amateur astronomy and stargazing. The park’s elevation, dry desert air, and distance from any California light pollution make for excellent observing conditions.
 
@@ -60,7 +66,7 @@ Get outside, do and see more, and enjoy the places that move you, Joshua Tree Na
 
 **Facilities**: Park staff maintain three entrance stations, three visitor centers, one nature center, 93 miles of paved and 106 miles of unpaved roads, 9 campgrounds (523 camp sites), 10 picnic areas (38 sites), 32 trailheads, and 191 miles of hiking trail. Behind the scenes the park operates and maintains two water treatment facilities, 13 solar power stations, four maintenance facilities, and eight employee housing units.
 
-Note: This post originally appeared on [Medium](https://medium.com/p/42ec007f6724) but I am making an effort to host my own writing.
+
 
 ### Other parks in my series
 
@@ -81,6 +87,7 @@ Note: This post originally appeared on [Medium](https://medium.com/p/42ec007f672
 8. [Monocacy National Battlefield]({% post_url 2016-02-28-Monocacy %})
 
 9. [Prince William Forest Park]({% post_url 2016-03-06-Prince-William-Forest %})
+
 10. [You can run America’s Parks]({% post_url 2016-03-28-Run-Parks %})
 
 11. [Gateway National Recreation Area]({% post_url 2016-04-17-Gateway %})
@@ -90,6 +97,9 @@ Note: This post originally appeared on [Medium](https://medium.com/p/42ec007f672
 ### References
 
 1. [Joshua Tree National Park - Official NPS site](www.nps.gov/JOTR)
+
 2. [Joshua Tree National Park: A History of Preserving the Desert](http://www.nps.gov/jotr/learn/historyculture/upload/JOTRAdministrativeHistory.pdf) by Lary M. Dilsaver, March 2015.
+
 3. [California Desert Protection Act of 1994 - Wikipedia](https://en.wikipedia.org/wiki/California_Desert_Protection_Act_of_1994)
+
 4. [Joshua Tree National Park Business Plan FY2001](http://www.nps.gov/jotr/learn/management/upload/bpi.pdf)
