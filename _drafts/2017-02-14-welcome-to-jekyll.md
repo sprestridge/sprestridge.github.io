@@ -33,6 +33,10 @@ the gems in your Gemfile, which may resolve the conflict.
 
 In order to get around it I ran ```sudo bundle update``` and then ```sudo bundle exec jekyll serve``` again and it worked. Need to investigate.
 
+Testing MathJax:
+
+$$ y = mx + b $$
+
 
 ## Original Text Follows
 You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
