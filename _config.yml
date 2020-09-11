@@ -29,11 +29,16 @@ google_analytics: UA-92883948-1
 
 # Build settings
 markdown: kramdown
+# trying to allow mathjax in markdown
+mathjax: true
+
 theme: minima
 show_excerpts: true
+
 plugins:
   - jekyll-feed
   - jekyll-archives
+
 exclude:
   - Gemfile
   - Gemfile.lock

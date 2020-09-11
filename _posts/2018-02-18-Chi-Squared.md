@@ -13,7 +13,7 @@ The p-value of 0.1573 indicates that belief in whether or not blacks and other m
 
 The p-value of less than 0.0001 indicates that belief in whether or not blacks and other minorities are treated the same in the criminal justice system is associated with education levels. So we accept the alternate hypothesis - that not all education categories are equal across belief categories for whether blacks and other minorities are treated the same. We know all are not equal but we do not know which are different and which are not. (Chi-Squared = 34.3372, DF=2, p-value<0.0001)
 
-Adjusted Bonferroni p-value for Education = $p / c = 0.05 / 6 = 0.008$
+Adjusted Bonferroni p-value for Education = `p / c = 0.05 / 6 = 0.008`
 
 In order to protect against type 1 error in the context of the Chi-Square test it is appropriate to use the post hoc approach known as the Bonferroni Adjustment. Post hoc comparisons of education levels revealed that there is a statistical difference between those with high school or lower levels of education and those with college or greater levels of education.
 
@@ -24,7 +24,7 @@ The p-value of 0.3152 indicates that trust in the legal system is not associated
 
 The p-value of less than 0.0001 clearly indicates that trust in the legal system is associated with education levels. So we accept the alternate hypothesis - that not all education categories are equal across trust in the legal system. We know all are not equal but we do not know which are different and which are not.
 
-Adjusted Bonferroni p-value = $p / c = 0.05 / 4 = 0.0125$
+Adjusted Bonferroni p-value = `p / c = 0.05 / 4 = 0.0125`
 
 Post hoc comparisons of education levels revealed that there is a statistical difference between those with high school or lower levels of education and those with college or greater levels of education.
 
