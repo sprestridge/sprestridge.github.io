@@ -5,7 +5,7 @@ date:   2018-02-24 16:10:00 -0500
 categories: training
 ---
 
-I am using the 'Outlook on Life' survey data to investigate if age or education play a role in whether people think _blacks and other minorities are treated the same as whites in the criminal justice system_ (W1_K4 in the codebook) or in whether they have _trust in the legal system_ (W1_K1_C in the codebook). Both of these categorical response variables have multiple levels, as do the explanatory variables. Since the Pearson correlation is a measure of the linear correlation between two X and Y quantitative variables I am going to complete this assignment using the GapMinder data instead.
+I am using the 'Outlook on Life' survey data to investigate if age or education play a role in whether people think _blacks and other minorities are treated the same as whites in the criminal justice system_ (`W1_K4` in the codebook) or in whether they have _trust in the legal system_ (`W1_K1_C` in the codebook). Both of these categorical response variables have multiple levels, as do the explanatory variables. Since the Pearson correlation is a measure of the linear correlation between two X and Y quantitative variables I am going to complete this assignment using the GapMinder data instead.
 
 For this exercise, I will examine the relationship between a country's wealth and life expectancy. In the GapMinder data, the wealth of a country can be measured with GDP per capita (variable: **incomeperperson**) and life expectancy by years with a variable of the same name (variable: **lifeexpectancy**).
 
@@ -48,19 +48,19 @@ run;
 
 Just to see what the results would be I examined Pearson correlation coefficients for several of the Outlook on Life variables. The first two were the original questions I was interested in.
 
-- **W1_K4**: "Are blacks & other minorities treated the same as whites in the criminal justice system?"
+- `W1_K4`: "**Are blacks & other minorities treated the same as whites in the criminal justice system?**"
 
-- **W1_K1_C**: "Do You trust the legal system?"
+- `W1_K1_C`: "**Do You trust the legal system?**"
 
-- W1_M5: "Attendance of religious services"
+- `W1_M5`: "Attendance of religious services"
 
-- W1_P9: "Has anyone in your household been arrested"
+- `W1_P9`: "Has anyone in your household been arrested"
 
-- W1_P20: "Personal Income"
+- `W1_P20`: "Personal Income"
 
-- W1_N1d: "Rate White people"
+- `W1_N1d`: "Rate White people"
 
-- W2_J1_B: "Rate people in jail"
+- `W2_J1_B`: "Rate people in jail"
 
 See the results table below.
 

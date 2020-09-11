@@ -5,7 +5,7 @@ date:   2018-02-18 19:16:00 -0500
 categories: training
 ---
 
-I am using the 'Outlook on Life' survey data to investigate if age or education play a role in whether people think _blacks and other minorities are treated the same as whites in the criminal justice system_ (W1_K4 in the codebook) or in whether they have _trust in the legal system_ (W1_K1_C in the codebook). Since both of these categorical response variables have multiple levels, as do the explanatory variables, they need to be collapsed into fewer groups. W1_K4 (belief in equal treatment in criminal justice system) will be collapsed from 7 levels to 3 levels - Recieve equal treatment, No opinion, and Do not receive equal treatment. W1_K1_C (trust in legal system) will be collapsed from 4 levels to 2 levels - Trust and Mistrust.
+I am using the 'Outlook on Life' survey data to investigate if age or education play a role in whether people think _blacks and other minorities are treated the same as whites in the criminal justice system_ (`W1_K4` in the codebook) or in whether they have _trust in the legal system_ (`W1_K1_C` in the codebook). Since both of these categorical response variables have multiple levels, as do the explanatory variables, they need to be collapsed into fewer groups. `W1_K4` (belief in equal treatment in criminal justice system) will be collapsed from 7 levels to 3 levels - Recieve equal treatment, No opinion, and Do not receive equal treatment. `W1_K1_C` (trust in legal system) will be collapsed from 4 levels to 2 levels - Trust and Mistrust.
 
 ## Do you think that blacks and other minorities are treated the same in the criminal justice system?
 
@@ -13,7 +13,7 @@ The p-value of 0.1573 indicates that belief in whether or not blacks and other m
 
 The p-value of less than 0.0001 indicates that belief in whether or not blacks and other minorities are treated the same in the criminal justice system is associated with education levels. So we accept the alternate hypothesis - that not all education categories are equal across belief categories for whether blacks and other minorities are treated the same. We know all are not equal but we do not know which are different and which are not. (Chi-Squared = 34.3372, DF=2, p-value<0.0001)
 
-Adjusted Bonferroni p-value for Education = p / c = 0.05 / 6 = 0.008
+Adjusted Bonferroni p-value for Education = $p / c = 0.05 / 6 = 0.008$
 
 In order to protect against type 1 error in the context of the Chi-Square test it is appropriate to use the post hoc approach known as the Bonferroni Adjustment. Post hoc comparisons of education levels revealed that there is a statistical difference between those with high school or lower levels of education and those with college or greater levels of education.
 
@@ -24,7 +24,7 @@ The p-value of 0.3152 indicates that trust in the legal system is not associated
 
 The p-value of less than 0.0001 clearly indicates that trust in the legal system is associated with education levels. So we accept the alternate hypothesis - that not all education categories are equal across trust in the legal system. We know all are not equal but we do not know which are different and which are not.
 
-Adjusted Bonferroni p-value = p / c = 0.05 / 4 = 0.0125
+Adjusted Bonferroni p-value = $p / c = 0.05 / 4 = 0.0125$
 
 Post hoc comparisons of education levels revealed that there is a statistical difference between those with high school or lower levels of education and those with college or greater levels of education.
 

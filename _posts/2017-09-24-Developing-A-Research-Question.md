@@ -19,22 +19,31 @@ Preparing a codebook of my own from the full codebook which is 421 pages will be
 
 A few obvious questions/items/variables directly from the codebook that I will include:
 
-- W1_K4 On a seven-point scale, do you think that blacks and other minorities are treated the same as whites in the criminal justice system or do not receive equal treatment?
-- W1_K1_A [The government in Washington ] How much do you think you can trust the following institutions?
-- W1_K1_B [The police ] How much do you think you can trust the following institutions?
-- W1_K1_C [The legal system ] How much do you think you can trust the following institutions?
-- W1_M1: What is your religion?
-- W1_M5: How often do you attend religious services?
-- W1_M2: What was the racial makeup of your place of worship?
-- W1_M3: Churches or places of worship should be involved in political matters.
+- `W1_K4`: On a seven-point scale, do you think that blacks and other minorities are treated the same as whites in the criminal justice system or do not receive equal treatment?
+
+- `W1_K1_A` [The government in Washington ]: How much do you think you can trust the following institutions?
+
+- `W1_K1_B` [The police ]: How much do you think you can trust the following institutions?
+
+- `W1_K1_C` [The legal system ]: How much do you think you can trust the following institutions?
+
+- `W1_M1`: What is your religion?
+
+- `W1_M5`: How often do you attend religious services?
+
+- `W1_M2`: What was the racial makeup of your place of worship?
+
+- `W1_M3`: Churches or places of worship should be involved in political matters.
 
 Identifying a second topic to explore will also be ongoing in the coming days. But certainly investigating how economic status (household income, housing type, stock market participation, etc.) play a role could be interesting.
 
 There are several questions/items/variables from the codebook related to this:
 
-- W1_P15 Do you personally, or jointly with a spouse, have any money invested in the stock market right now—either in an individual stock or in a mutual fund?
-- W1_P16E [Food Stamps] Check any box to designate from other sources of income you or anyone in your household may have received in 2011.
-- W1_P20 Which of the following income groups includes YOUR personal annual income (Do not include the income of other members of your household)?
+- `W1_P15` Do you personally, or jointly with a spouse, have any money invested in the stock market right now—either in an individual stock or in a mutual fund?
+
+- `W1_P16E` [Food Stamps] Check any box to designate from other sources of income you or anyone in your household may have received in 2011.
+
+- `W1_P20` Which of the following income groups includes YOUR personal annual income (Do not include the income of other members of your household)?
 
 
 ## Literature Review Summary
@@ -43,7 +52,7 @@ Two searches defined below were done using Google Scholar and several citations 
 
 ### Google Scholar Searches
 
-Using the search terms "criminal justice system religious beliefs" at Google Scholar yielded the following select citations:
+Using the search terms "_criminal justice system religious beliefs_" at Google Scholar yielded the following select citations:
 
 APPLEGATE, B. K., CULLEN, F. T., FISHER, B. S. and VEN, T. V. (2000), _FORGIVENESS AND FUNDAMENTALISM: RECONSIDERING THE RELATIONSHIP BETWEEN CORRECTIONAL ATTITUDES AND RELIGION*_. Criminology, 38: 719–754. doi:10.1111/j.1745-9125.2000.tb00904.x
 
@@ -53,6 +62,7 @@ APPLEGATE, B. K., CULLEN, F. T., FISHER, B. S. and VEN, T. V. (2000), _FORGIVENE
 
 >Although research typically has failed to establish a relationship between religious affiliation and correctional attitudes, recent assessments have revealed that fundamentalist Christians tend to be more punitive than are nonfundamentalists. These studies have advanced our understanding considerably, but their conceptualization of religion and correctional attitudes has been limited. Using a statewide survey, the present study demonstrates that compassionate as well as fundamentalist aspects of religious beliefs are related to public correctional preferences. Further, our results reveal that religion influences support for rehabilitation as well as punitiveness. These findings suggest the need for scholars to think more broadly about the role of religion in criminology.
 
+
 Grasmick, Harold G., Cochran, John K., Bursik Jr., Robert J, and Kimpel, M'Lou (2006), _Religion, punitive justice, and support for the death penalty_. Justice Quarterly, 10, 1993 - Issue 2: 289-314. doi: [http://dx.doi.org/10.1080/07418829300091831](http://dx.doi.org/10.1080/07418829300091831)
 
 [http://www.tandfonline.com/doi/abs/10.1080/07418829300091831](http://www.tandfonline.com/doi/abs/10.1080/07418829300091831)
@@ -60,6 +70,7 @@ Grasmick, Harold G., Cochran, John K., Bursik Jr., Robert J, and Kimpel, M'Lou (
 **Abstract**
 
 >The increased punitiveness in the criminal justice system, stimulated at least to some extent by public opinion, has coincided with the revival of Protestant evangelicalism and fundamentalism and with their followers' active involvement in politics and policy debates. Previous research on the determinants of preferred justice policies in the public either ignored religion or relied on a simple distinction among Protestants, Catholics, and Jews. The present study argues that evangelical/fundamentalist Protestants are more inclined to attribute crime to offenders' dispositional characteristics than to situational factors. Consequently they are expected to be more punitive than members of other groups. Survey data from a sample of adults in a southwestern city reveal greater punitiveness among evangelical/fundamentalist Protestants on four of five policy issues, including support for the death penalty both for adults and for juveniles.
+
 
 Stack, Steven (2012), _Authoritarianism and Support for the Death Penalty: A Multivariate Analysis_. Sociological Focus Volume 36, Issue 4: 333-352. doi: [http://dx.doi.org/10.1080/00380237.2003.10571228](http://dx.doi.org/10.1080/00380237.2003.10571228)
 
@@ -69,7 +80,8 @@ Stack, Steven (2012), _Authoritarianism and Support for the Death Penalty: A Mul
 
 >While a widely used concept in the social sciences, authoritarianism has been neglected in research on death penalty support. The few existing studies on the association tend to be limited by the lack of an integrated theory, reliance on bivariate analysis, local and often nonrepresentative samples, and use of data from the 1960s. In addition, the large majority of death penalty support studies from the last quarter century have omitted authoritarianism from their models. The present study addresses these issues and tests an updated integrated model incorporating measures from alternative symbolic orientations (e.g., fundamentalism, conservatism), instrumentalism (e.g., crime victimization, fear), and demographic controls. The analysis is based on aggregated data from the General Social Surveys. A multivariate logistic regression analysis finds that, controlling for the symbolic and instrumental covariates of authoritarianism, authoritarianism is a leading predictor of death penalty support. The results provide a more accurate understanding of the foundations of support for the death penalty. Fully specified models of death penalty support need to include authoritarianism. The link between authoritarianism, an orientation thought to be inconsistent with basic democratic values, and death penalty support may serve to delegitimate the death penalty in policy debates.
 
-Using the search terms "criminal justice system racist" at Google Scholar yielded the following select citations:
+
+Using the search terms "_criminal justice system racist_" at Google Scholar yielded the following select citations:
 
 Davis, A. (1996). _Benign Neglect of Racism in the Criminal Justice System_. Michigan Law Review, 94(6), 1660-1686. doi:10.2307/1289965
 
