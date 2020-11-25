@@ -2,7 +2,7 @@
 layout: post
 title:  "Producing Small Multiples of COVID-19 case rates by state"
 date:   2020-06-05 17:00:00 -0500
-categories: [datavis, python]
+categories: [datavis, python, COVID-19]
 excerpt_separator: <!--more-->
 ---
 
