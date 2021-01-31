@@ -61,7 +61,7 @@ The next time you are looking for a recreational opportunity within an easy day 
 
 1. [Acadia National Park]({% post_url 2016-01-11-Acadia %})
 
-2. [Cape Cod National Park]({% post_url 2016-01-15-Cape-Cod %})
+2. [Cape Cod National Seashore]({% post_url 2016-01-15-Cape-Cod %})
 
 3. [Martin Luther King, Jr. Memorial]({% post_url 2016-01-26-MLK-Jr %})
 

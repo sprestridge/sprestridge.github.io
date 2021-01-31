@@ -5,7 +5,7 @@ date:  2018-03-02 08:00:00 -0500
 tags: findyourpark nps
 ---
 
-I often get asked _'how many parks are their in the National Park Service?'_ and I almost always hedge my answer because there are 417 sites but what most people are referring to when they ask the question are the 59 'park' units (think headliner National Parks - if it does not have 'National Park' in the name it is a different kind of unit). Other types of sites or units in the NPS are parkways (Blue Ridge Parkway), recreation areas (Lake Mead National Recreation Area), seashores (Cape Cod National Seashore), battlefields (Gettysburg National Battlefield), and more.
+I often get asked _'how many parks are there in the National Park Service?'_ and I almost always hedge my answer because there are 417 sites (at the time of writing) but what most people are referring to when they ask the question are the 59 'park' units (think headliner National Parks - if it does not have 'National Park' in the name it is a different kind of unit). Other types of sites or units in the NPS are **parkways** (Blue Ridge Parkway), **recreation areas** (Lake Mead National Recreation Area), **seashores** ([Cape Cod National Seashore]({% post_url 2016-01-15-Cape-Cod %})), **battlefields** (Gettysburg National Battlefield), and more.
 
 [![Sunset over the Grand](https://c1.staticflickr.com/9/8364/29118938502_f644421ecd_h.jpg)](https://www.flickr.com/photos/prestridge/29118938502/in/datetaken-public/)
 
@@ -61,3 +61,30 @@ In a recent CNN report on visitation statistics and [deferred maintenance (DM)](
 9. Grand Teton National Park (WY): 3,317,000 visits ($178,630,525 deferred maintenance)
 
 10. Glacier National Park (MT): 3,305,512 visits ($153,838,276 deferred maintenance)
+
+
+## \#FindYourPark series
+
+A few years ago the NPS had a marketing campaign around \#FindYourPark and I wrote several posts in my own series.
+
+1. [Acadia National Park]({% post_url 2016-01-11-Acadia %})
+
+2. [Cape Cod National Seashore]({% post_url 2016-01-15-Cape-Cod %})
+
+3. [Martin Luther King, Jr. Memorial]({% post_url 2016-01-26-MLK-Jr %})
+
+4. [Chesapeake & Ohio Canal National Historic Park]({% post_url 2016-01-29-CO-Canal %})
+
+5. [Joshua Tree National Park]({% post_url 2016-02-06-Joshua-Tree %})
+
+6. [Morristown National Historical Park]({% post_url 2016-02-12-Morristown %})
+
+7. [Jefferson National Expansion Monument]({% post_url 2016-02-20-Gateway %})
+
+8. [Monocacy National Battlefield]({% post_url 2016-02-28-Monocacy %})
+
+9. [Prince William Forest Park]({% post_url 2016-03-06-Prince-William-Forest %})
+
+10. [You can run America’s Parks]({% post_url 2016-03-28-Run-Parks %})
+
+11. [Gateway National Recreation Area]({% post_url 2016-04-17-Gateway %})
