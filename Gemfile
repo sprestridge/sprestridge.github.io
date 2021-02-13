@@ -27,6 +27,9 @@ end
 # trying nokogiri above 1.10.10
 gem "nokogiri", ">1.10.10"
 
+# updating to patched version of active support
+gem "activesupport", ">= 4.1.11"
+
 
 # Windows does not include zoneinfo files, so bundle the tzinfo-data gem
 gem 'tzinfo-data', platforms: [:mingw, :mswin, :x64_mingw, :jruby]
