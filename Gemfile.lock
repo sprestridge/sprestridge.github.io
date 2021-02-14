@@ -285,8 +285,5 @@ DEPENDENCIES
   nokogiri (> 1.10.10)
   tzinfo-data
 
-RUBY VERSION
-   ruby 2.4.4p296
-
 BUNDLED WITH
    1.17.3
