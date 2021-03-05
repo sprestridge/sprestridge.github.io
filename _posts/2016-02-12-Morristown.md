@@ -24,7 +24,7 @@ Directly across the street from the house was a wall of rocks that formed the ed
 <cite>Aldo Leopold</cite>
 
 
-We spent many hours in the woods and on the trails in the Fort Nonsense area — much of it on private property it turns out. My great uncle would tell stories of the union troops that wintered there, of dinosaurs, and of anything else he could think of that captured my young, active imagination. Little did I know at the time that Fort Nonsense and nearby Jockey Hollow were both part of the NPS system of parks. They were the blank spots on the map of my childhood even if they were not remote by any stretch of the imagination.
+We spent many hours in the woods and on the trails in the Fort Nonsense area — much of it on private property it turns out. My great uncle would tell stories of the troops that wintered there, of dinosaurs, and of anything else he could think of that captured my young, active imagination. Little did I know at the time that Fort Nonsense and nearby Jockey Hollow were both part of the NPS system of parks. They were the blank spots on the map of my childhood even if they were not remote by any stretch of the imagination.
 
 ![](/img/2016-02-12-Find-Your-Park.jpg)
 
