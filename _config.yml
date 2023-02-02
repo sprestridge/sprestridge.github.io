@@ -21,10 +21,14 @@ description: > # this means to ignore newlines until "baseurl:"
   runner, beer geek, and artist - in no particular order.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://sprestridge.net" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: sprestridge
+
+# social links
+# removing twitter
+# twitter_username: sprestridge
 github_username:  sprestridge
 instagram_username: sprestridge
-mastodon_username: mas.to/@ScoPre
+# nope, more work is require to properly setup Mastodon
+# mastodon_username: mas.to/@ScoPre
 
 google_analytics: G-7KK0YCGTP5
 
