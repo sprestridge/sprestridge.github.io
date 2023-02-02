@@ -24,6 +24,7 @@ url: "https://sprestridge.net" # the base hostname & protocol for your site, e.g
 twitter_username: sprestridge
 github_username:  sprestridge
 instagram_username: sprestridge
+mastodon_username: mas.to/@ScoPre
 
 google_analytics: G-7KK0YCGTP5
 
