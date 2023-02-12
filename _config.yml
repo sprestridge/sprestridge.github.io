@@ -44,6 +44,9 @@ plugins:
   - jekyll-feed
   - jekyll-archives
 
+include:
+  - .well-known
+
 exclude:
   - Gemfile
   - Gemfile.lock
