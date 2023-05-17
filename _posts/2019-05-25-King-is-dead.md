@@ -8,7 +8,7 @@ excerpt_separator: <!--more-->
 
 **King of the Mountain no more**
 
-I was once faster than [Jim Walmsley](https://www.walmsleyruns.com/). It's true. But no longer. The other day I got a notification from Strava that my King of the Mountain (course record) for the South Kaibab Trail Climb had fallen by 13 seconds to [Jim Walmsley](https://en.wikipedia.org/wiki/Jim_Walmsley) who is a professional-ultra-trail runner.
+I was once faster than [Jim Walmsley](https://en.wikipedia.org/wiki/Jim_Walmsley). It's true. But no longer. The other day I got a notification from Strava that my King of the Mountain (course record) for the South Kaibab Trail Climb had fallen by 13 seconds to [Jim Walmsley](https://en.wikipedia.org/wiki/Jim_Walmsley) who is a professional-ultra-trail runner.
 
 <!--more-->
 
