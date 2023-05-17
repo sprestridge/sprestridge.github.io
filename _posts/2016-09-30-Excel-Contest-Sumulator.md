@@ -12,7 +12,9 @@ Occasionally as a modeler with strong Excel and VBA skills one gets asked to cre
 
 ![](/img/2016-09-30-Excel-Contest-Simulator.png)
 
-You can see my final solution in the Excel file (Random Contest Winner Simulator 1.0.xlsm - _instead of providing the file, I am including the above screenshot_). Here's why I like it and what you might find useful in your everyday work:
+You can see my final solution in the Excel file (Random Contest Winner Simulator 1.0.xlsm - _instead of providing the file, I am including the above screenshot_). The table is an Excel structured table. The formula for the `Random#` columns is `=RAND()`, for `SimWin` it is `=--([@[Random'#]] = MAX([Random'#]))`, for Helper Wins it is `=[@SimWin] + [@[Total Wins]]`. There's no formula for Total Wins because the VBA macro handles updating that column in a loop when the number of simulations is run.
+
+Here's why I like this example workbook and what others might find useful:
 
 - **Formatted Excel Table**: This makes adding and deleting rows relatively simple and carries with it standard formatting and formulas that will remain even if the user deletes all the rows of the table. Yes - go ahead and try it. Delete all the rows (you might want to save the list of names somewhere first). Paste a new list of names (doesn't matter how many) into the first column and you'll see the table automatically expand to the correct size with the formulas populated and formatting applied. Run a contest. Boom, winner and nicely formatted table.
 
@@ -30,7 +32,6 @@ That's about all I have to say on this one. Ultimately, the client wound up with
 Sub RunContest()
 
 Dim i As Long
-
 Dim j As Long
 
 'To see the macro in action, comment out the ScreenUpdating line below
@@ -38,15 +39,12 @@ Dim j As Long
 Application.ScreenUpdating = False
 
 'first clear the results of any previous contests
-
 Sheet1.Range("tbl_entries[Total Wins]").ClearContents
 
 'read the number of total simulations to run
-
 j = Sheet1.Range("rng_NumSims").Value
 
 'loop to run simulation, record result, and repeat
-
 For i = 1 To j
 
 Randomize
