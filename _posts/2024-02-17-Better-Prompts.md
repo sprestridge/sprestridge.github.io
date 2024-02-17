@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "How to write ChatGPT prompts 5x better using Markdown"
-date:  2024-12-17 12:00:00 -0500
+date:  2024-02-17 12:00:00 -0500
 categories: [llm, chatgpt, ai, datascience]
 excerpt_separator: <!--more-->
 ---
