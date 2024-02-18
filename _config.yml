@@ -28,21 +28,19 @@ instagram_username: sprestridge
 # nope, more work is require to properly setup Mastodon
 # mastodon_username: mas.to/@ScoPre
 
-google_analytics: G-7KK0YCGTP5
+# google_analytics: G-7KK0YCGTP5
 
 # Build settings
 markdown: kramdown
 # trying to allow mathjax in markdown
 mathjax: true
 
-# theme: minima
-remote_theme: jekyll/minima
+theme: minima
 show_excerpts: true
 
 plugins:
   - jekyll-feed
   - jekyll-archives
-  - jekyll-remote-theme
 
 include:
   - .well-known
