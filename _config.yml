@@ -23,8 +23,6 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://sprestridge.net" # the base hostname & protocol for your site, e.g. http://example.com
 
 # social links
-# removing twitter
-# twitter_username: sprestridge
 github_username:  sprestridge
 instagram_username: sprestridge
 # nope, more work is require to properly setup Mastodon
@@ -37,12 +35,14 @@ markdown: kramdown
 # trying to allow mathjax in markdown
 mathjax: true
 
-theme: minima
+# theme: minima
+remote_theme: jekyll/minima
 show_excerpts: true
 
 plugins:
   - jekyll-feed
   - jekyll-archives
+  - jekyll-remote-theme
 
 include:
   - .well-known
