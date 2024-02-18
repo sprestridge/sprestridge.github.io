@@ -27,7 +27,7 @@ _That is better, but why_? The **labels are adjacent to the data** and not off i
 
 ![Better-Bar-Chart](/img/2010-04-07-NBC-Olympic-Bar-Better.png "How is NBC's Olympic Coverage? Better Bar Chart with 7 categories and Positive / Negative sentiment via color")
 
-And so my colleagues do not think I never use pie graphs, I would say this is actually a fine time for a pie graph. Perhaps the author or editors should have chosen the following graph as the only visual for the article. The classic Pac-Man graphic - probably the only time I approve of pie graphs.
+And so my colleagues do not think I [never use pie graphs]({{ site.baseurl }}{% link _posts/2010-03-12-I-Hate-Pie.md %}), I would say this is actually a fine time for a pie graph. Perhaps the author or editors should have chosen the following graph as the only visual for the article. The classic Pac-Man graphic - probably the only time I approve of pie graphs.
 
 ![Pacman-Chart](/img/2010-04-07-NBC-Olympic-Pie-Better.png "How is NBC's Olympic Coverage? Pacman Chart - the only acceptable pie chart")
 
