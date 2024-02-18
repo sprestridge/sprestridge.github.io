@@ -74,7 +74,16 @@ print("Hello")
 
 And one more example:
 
-\```Also a code block\```
+```markdown
+```Also a code block```
+```
+
+But a single line, command, or function can be done with single back ticks:
+
+```markdown
+`print("this is a line of code")`
+```
+
 
 ## Use block quotes for citations
 
