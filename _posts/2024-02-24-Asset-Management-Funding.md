@@ -33,7 +33,7 @@ https://www.ntsb.gov/investigations/Documents/Pittsburgh%20Board%20Meeting%20Sum
 
 There's a YouTube **animation of the collapse** by the NTSB:
 
-https://youtu.be/J-VnWB4fiFk&t=195
+[https://youtu.be/J-VnWB4fiFk&t=195](https://youtu.be/J-VnWB4fiFk&t=195)
 
 The collapse animation begins at 3:15 of the video. The first 3-minutes provide a detailed overview of the bridge and the situation. In this disaster, the inspectors were not to blame – they had identified the problem in reports over and over for years.
 
