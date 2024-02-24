@@ -50,7 +50,7 @@ The collapse animation begins at 3:15 of the video. The first 3-minutes provide 
 The city of Pittsburgh, in the aftermath of the Fern Hollow Bridge collapse, stood up a Bridge Asset Management Program. Similar to any agency managing a large portfolio of constructed assets, the city is **extremely underfunded for maintenance & repair**. The [Bridge Asset Management Program Overview](https://apps.pittsburghpa.gov/redtail/images/24121_Bridge_Asset_Management_Program_-_Overview.pdf) indicates **annual routine maintenance reeds of $9.75M** across activities like cleaning & washing, deck joint repair/replacement, painting, crack sealing & patching, and deck overlays across an inventory of 99 vehicular and 47 pedestrian bridges. Current maintenance funding:
 
 | year | funding |
-|-----:|---------|
+|:-----|:--------|
 | 2021 | $0.39M  |
 | 2022 | $0.75M  |
 | 2023 | $0.95M  |
