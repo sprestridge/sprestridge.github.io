@@ -15,7 +15,7 @@ Viewed through the lens of total cost of facility ownership, the initial 20 to 3
 
 <!--more-->
 
-As consultants, we all probably follow a rigorous quality management plan and quality assurance / quality control process but we are all human. Mistakes happen. A colleague recently asked if I worried about making mistakes in deliverables. I said I did not because in our line of consulting, no one will die from one of those mistakes. That was not always the case when I was a consultant specializing in bridge design & inspection.
+As consultants, we all probably follow a rigorous quality management plan and quality assurance / quality control processes but we are all human. Mistakes happen. A colleague recently asked if I worried about making mistakes in deliverables. I said I did not because in our line of consulting, no one will die from one of those mistakes. That was not always the case when I was a consultant specializing in bridge design & inspection.
 
 This scenario used to give me nightmares – a bridge I had inspected collapsing sometime after the inspection. I cannot tell you how many bridges my teams inspected over the years with significant section loss in structural members. We closed major interstates and lanes of major bridges. As of 2021, the American Society of Civil Engineers (aka ASCE) gave [America's infrastructure](https://infrastructurereportcard.org/cat-item/bridges-infrastructure/) an overall score of C- and bridges a C.
 
