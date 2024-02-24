@@ -1,21 +1,23 @@
 ---
 layout: post
-title: Post Template
-date:   yyyy-mm-dd 17:00:00 -0500
-categories: [use, commas]
+title: Asset management programs face ongoing maintenance deficit
+date:   2024-02-24 12:00:00 -0500
+categories: [asset management, infrastructure]
 excerpt_separator: <!--more-->
 ---
+![](/img/2024-02-24-building-on-plans.png "Building frame on top of a set of plans")
+
 "_Another flaw in the human character is that everybody wants to build and nobody wants to do maintenance._"
 
 <cite>Kurt Vonnegut, Hocus Pocus</cite>
 
-Viewed through the lens of total cost of facility ownership, the initial 20 - 30% of life-time costs for a constructed asset (building, road, bridge, etc.) occur in the first 2 to 4 years of existence accounting for planning, design, construction, and start-up. What about the remaining 70 - 80% of costs? The remaining 80% represents the majority of the cost an owner will incur -- for operating, maintaining, recapitalizing, and disposing. Despite that, **every client** I have ever worked with **faces significant funding shortfalls for maintenance and recapitalization**. We celebrate ribbon cuttings; no one celebrates ongoing maintenance.
+Viewed through the lens of total cost of facility ownership, the initial 20 to 30% of life-time costs for a constructed asset (building, road, bridge, etc.) occur in the first 2 to 4 years of existence accounting for planning, design, construction, and start-up. _What about the remaining 70 to 80% of costs_? The remaining 80% represents the majority of the cost an owner will incur – for operating, maintaining, recapitalizing, and disposing. Despite that, **every client** I have ever worked with **faces significant funding shortfalls for maintenance and recapitalization**. We celebrate ribbon cuttings; no one celebrates ongoing maintenance.
 
 <!--more-->
 
 As consultants, we all probably follow a rigorous quality management plan and quality assurance / quality control process but we are all human. Mistakes happen. A colleague recently asked if I worried about making mistakes in deliverables. I said I did not because in our line of consulting, no one will die from one of those mistakes. That was not always the case when I was a consultant specializing in bridge design & inspection.
 
-This scenario used to give me nightmares -- a bridge I had inspected collapsing sometime after the inspection. I cannot tell you how many bridges my teams inspected over the years with significant section loss in structural members. We closed major interstates and lanes of major bridges. As of 2021, the American Society of Civil Engineers (aka ASCE) gave [America's infrastructure](https://infrastructurereportcard.org/cat-item/bridges-infrastructure/) an overall score of C- and bridges a C.
+This scenario used to give me nightmares – a bridge I had inspected collapsing sometime after the inspection. I cannot tell you how many bridges my teams inspected over the years with significant section loss in structural members. We closed major interstates and lanes of major bridges. As of 2021, the American Society of Civil Engineers (aka ASCE) gave [America's infrastructure](https://infrastructurereportcard.org/cat-item/bridges-infrastructure/) an overall score of C- and bridges a C.
 
 ## NTSB shares probable cause of Fern Hollow Bridge collapse
 
@@ -31,9 +33,9 @@ https://www.ntsb.gov/investigations/Documents/Pittsburgh%20Board%20Meeting%20Sum
 
 There's a YouTube **animation of the collapse** by the NTSB:
 
-https://www.youtube.com/watch?v=J-VnWB4fiFk
+https://youtu.be/J-VnWB4fiFk&t=195
 
-Skip ahead to 3:15 of the video for the collapse part. The first 3-minutes provide a detailed overview of the bridge and the situation. In this scenario, the inspectors were not to blame -- they had identified the problem in reports for years.
+The collapse animation begins at 3:15 of the video. The first 3-minutes provide a detailed overview of the bridge and the situation. In this disaster, the inspectors were not to blame – they had identified the problem in reports over and over for years.
 
 **NTSB recommendations**: There are almost too many recommendations to include in one summary, but here are the big ones (in the opinion of the author of the original article):
 
@@ -60,7 +62,7 @@ My favorite part from the full article in the Pittsburgh Union Press (_published
 
 > She referred to a line in famed author Kurt Vonnegut’s 1990 novel, “Hocus Pocus,” that read: “_Another flaw in the human character is that everybody wants to build and nobody wants to do maintenance._”
 
-We need to figure out how to fund long-term maintenance needs for the nation's infrastructure. Until we do, tragedies like the Fern Hollow Bridge collapse, and worse, will continue.
+We need to figure out how to fund long-term maintenance needs for the nation's infrastructure. Until we do, tragedies like the Fern Hollow Bridge collapse, and worse, will continue. Recent legislation like the Bipartisan Infrastructure Law (BIL) and the Great American Outdoors Act (GAOA) are band-aids on the wound unless long-term funding to close the ongoing maintenance gap is identified.
 
 ### Full article
 
