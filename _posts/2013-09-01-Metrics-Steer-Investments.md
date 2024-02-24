@@ -2,7 +2,7 @@
 layout: post
 title:  "Facility Management: Three Metrics Steer Investment Decisions"
 date:   2013-09-01 16:20:00 -0500
-categories: nps
+categories: [nps, asset management]
 ---
 
 I collaborated with a few colleagues, Doug Kincaid, Tim Harvey, and Mary Hudson, to write an article for Building Operating Management about the National Park Service's (NPS) investment metrics. The article follows below or view a [PDF](/files/BOM Three Metrics Steer Investment Decisions - NPS FCI Paper.pdf).
