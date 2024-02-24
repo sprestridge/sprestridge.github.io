@@ -21,9 +21,7 @@ This scenario used to give me nightmares – a bridge I had inspected collapsing
 
 ## NTSB shares probable cause of Fern Hollow Bridge collapse
 
-This week, an engineering friend pointed me to the NTSB's findings on the collapse of the Fern Hollow Bridge in Pittsburgh:
-
-https://www.ntsb.gov/investigations/Documents/Pittsburgh%20Board%20Meeting%20Summary%20%28ABSTRACT%29.pdf
+This week, an engineering friend pointed me to the [NTSB's findings on the collapse of the Fern Hollow Bridge in Pittsburgh](https://www.ntsb.gov/investigations/Documents/Pittsburgh%20Board%20Meeting%20Summary%20%28ABSTRACT%29.pdf):
 
 > "The collapse began when the transverse tie plate on the southwest bridge leg failed due to extensive corrosion and section loss. The corrosion and section loss resulted from clogged drains that caused water to run down bridge legs and accumulate along with debris at the bottom of the legs, which prevented the development of a protective rust layer or patina. Although repeated maintenance and repair recommendations were documented in many inspection reports, the City of Pittsburgh (City) failed to act on them, leading to the deterioration of the fracture-critical transverse tie plate and the structural failure of the bridge."
 > 
@@ -58,7 +56,7 @@ The city of Pittsburgh, in the aftermath of the Fern Hollow Bridge collapse, sto
 
 The city faces an **annual routine maintenance shortfall of $8.7M**, or _8.3 times current available funding_. Another report by the consultant, WSP, showed that city bridges will need nearly $500 million in improvements over the next 32 years, or about $15.6M per year.
 
-My favorite part from the full article in the Pittsburgh Union Press (_published by the striking workers at the Pittsburgh Post-Gazette, but that's another story in itself_) is the ending where the board chair, Jennifer Homendy, leveraged the quote that started this post by pointing out **the paradox that problems cited in decades worth of inspection reports were ignored but the city built a new bridge replacement in less than a year**:
+My favorite part from the [full article](https://www.unionprogress.com/2024/02/21/ntsb-cites-pittsburgh-state-federal-failures-in-fern-hollow-collapse/) in the Pittsburgh Union Press (_published by the striking workers at the Pittsburgh Post-Gazette, but that's another story in itself_) is the ending where the board chair, Jennifer Homendy, leveraged the quote that started this post by pointing out **the paradox that problems cited in decades worth of inspection reports were ignored but the city built a new bridge replacement in less than a year**:
 
 > She referred to a line in famed author Kurt Vonnegut’s 1990 novel, “Hocus Pocus,” that read: “_Another flaw in the human character is that everybody wants to build and nobody wants to do maintenance._”
 
@@ -66,4 +64,6 @@ We need to figure out how to fund long-term maintenance needs for the nation's i
 
 ### Full article
 
-https://www.unionprogress.com/2024/02/21/ntsb-cites-pittsburgh-state-federal-failures-in-fern-hollow-collapse/
+**NTSB cites Pittsburgh, state, federal failures in Fern Hollow Bridge collapse**, _Pittsburgh Union Press_:
+
+[https://www.unionprogress.com/2024/02/21/ntsb-cites-pittsburgh-state-federal-failures-in-fern-hollow-collapse/](https://www.unionprogress.com/2024/02/21/ntsb-cites-pittsburgh-state-federal-failures-in-fern-hollow-collapse/)
