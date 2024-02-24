@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Asset management programs face ongoing maintenance deficit
+title: Asset management programs face ongoing maintenance deficits
 date:   2024-02-24 12:00:00 -0500
 categories: [asset management, infrastructure]
 excerpt_separator: <!--more-->
