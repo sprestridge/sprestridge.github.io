@@ -69,3 +69,7 @@ We need to figure out how to fund long-term maintenance needs for the nation's i
 **NTSB cites Pittsburgh, state, federal failures in Fern Hollow Bridge collapse**, _Pittsburgh Union Press_:
 
 [https://www.unionprogress.com/2024/02/21/ntsb-cites-pittsburgh-state-federal-failures-in-fern-hollow-collapse/](https://www.unionprogress.com/2024/02/21/ntsb-cites-pittsburgh-state-federal-failures-in-fern-hollow-collapse/)
+
+### Reference
+
+1. [Whole Bulding Design Guide - Operation & Maintenance Planning](https://wbdg.org/facilities-operations-maintenance/operation-maintenance-planning): _As Figure 1 illustrates, 80% of a facility's life-cycle costs are associated with Operation & Maintenance (O&M)._ 
