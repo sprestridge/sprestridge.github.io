@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Chart recreations - iPhone Success"
+title: "Chart recreations–iPhone Success"
 date:  2022-11-22 18:00:00 -0500
 categories: [datavis, iPhone, Apple]
 excerpt_separator: <!--more-->
