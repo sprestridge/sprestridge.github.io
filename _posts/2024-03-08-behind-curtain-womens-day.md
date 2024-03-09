@@ -5,13 +5,13 @@ date:  2024-03-08 14:00:00 -0500
 categories:
 excerpt_separator: <!--more-->
 ---
-[Behind F1's Velvet Curtain](https://web.archive.org/web/20240301170542/https://www.roadandtrack.com/car-culture/a46975496/behind-f1-velvet-curtain/), by Kate Wagner **⇥** _web.archive.org_
+### [Behind F1's Velvet Curtain](https://web.archive.org/web/20240301170542/https://www.roadandtrack.com/car-culture/a46975496/behind-f1-velvet-curtain/), by Kate Wagner **⇥** _web.archive.org_
 
 **Tagline**: _If you wanted to turn someone into a socialist you could do it in about an hour by taking them for a spin around the paddock of a Formula 1 race. **The kind of money I saw will haunt me forever.**_
 
 <cite>Kate Wagner</cite>
 
-It's 2024 and for so many reasons we still do not have equality and need to fight for it daily. For this International Women's Day I want to amplify a voice that was recently suppressed by those with more power. This is a case study in speaking truth to power, holding yourself and each other accountable, and maintaining your convictions viewed through the lens of the failure of the media industry and the deepening class divide.
+It's 2024. We still do not have equality. We still need to fight for it daily. For this International Women's Day I want to amplify a voice that was recently suppressed by those with more power. This is a case study in speaking truth to power, holding yourself and each other accountable, and maintaining your convictions viewed through the lens of the failure of the media industry and the deepening class divide.
 
 <!--more-->
 
