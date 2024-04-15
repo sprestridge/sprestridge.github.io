@@ -1,10 +1,18 @@
-## TIL: SORT UNIQUE VSTACK
+---
+layout: post
+title: "TIL: SORT, UNIQUE, VSTACK"
+date:  2024-04-03 12:00:00 -0500
+categories: excel
+excerpt_separator: <!--more-->
+---
 
-### How to use three formulas to combine and sort the unique values from two different lists (arrays)
+## How to use three formulas to combine and sort the unique values from two different lists (arrays)
 
 Imagine two very long lists of unique codes (names, id numbers, any unique identifier). You need a single list of the unique codes. There are several approaches but I learned about `VSTACK` recently, have wanted to use it, and had to look it up again to apply it, so I am writing this as a TIL - today I learned.
 
 Use the two lists to combine (`VSTACK`) them into a single list of unique values (`UNIQUE`) that is sorted (`SORT`).
+
+<!--more-->
 
 In the screen shot, the array formula in cell D3 combines these three Excel functions to produce the sorted list of unique alpha codes. Two adjacent Boolean columns give a 1 or a 0 depending on whether the alpha code is from list one or two. `ISNUMBER` and `MATCH` are used with double unary characters to return the 1's and 0's. A value of 1 indicates it was from that list; a value of 0 indicates it was not.
 
