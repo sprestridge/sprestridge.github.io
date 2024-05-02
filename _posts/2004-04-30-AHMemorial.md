@@ -20,6 +20,8 @@ _2004 HBA CUP CHAMPION REBELS_
 
 **Kneeling**: Mark Burnam, Haley Hines, Colman Devlin
 
+<!--more-->
+
 The debut performance of the Slovakian team and the Austrian players is evidence of the growing borders of the game and lacrosse's steady drive to take over the globe. Further evidence of the game's explosion here in Europe is the Euro Championship slated for July 24-31 in Prague, which has twice as many countries participating (18) than the last Euros which were held in Cardiff, Wales just three years ago. 
 
 ![](/img/AHMemorial_2004_High_scorer_Scott_Joyner.jpg "AHM Hi-Scorer Scott Joyner drives on Jizni Mesto's Ales Vesely")
