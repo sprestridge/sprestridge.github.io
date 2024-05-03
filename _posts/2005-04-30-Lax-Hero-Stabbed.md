@@ -16,8 +16,6 @@ _Originally posted on e-lacrosse.com_ in 2005 and archived via the Wayback machi
 
 Former Boston Blazer's and Buffalo Bandits' star and New England lax guru, Randy Fraser, was stabbed on Saturday during a post game party at the The Aleš Hrebeský Memorial Box Tournament with his team and others at the tournament sports club in Prague, in the Czech Republic. As a result, he received a severe cut across his wrist and was rushed to the hospital where he had emergency surgery. Randy spent the next two days in recovery and was released on Monday and arrived home on Tuesday.
 
-[READ MORE]({% post_url 2005-04-30-Lax-Hero-Stabbed %})
-
 <!--more-->
 
 Fraser was playing with Billy Curtis' Rebel Wear team, a group regularly participating at the Prague event and 4-time champion. The annual All-star game was played that evening with the star of the game being Fraser, scoring two goals. After the game there were fireworks and festivities throughout the sports club. On Saturday the Rebel team had finished its games as the top seed of their bracket and was en-route to another title but the team pulled out of the games after the incident. Team Leader Billy Curtis contacted us via e-mail with the news "As Randy was joining his other Rebel teammates for dinner he was attacked by a disturbed Ukrainian man with a knife. The man that did this horrific crime was incarcerated. There was no explanation given by the authorities. Nor was there assurance of our team's safety for the remainder of the tournament. The authorities could not confirm whether this was an Anti-American act or just the action of a disturbed individual. With these issues and our concerns for Randy's well being the Rebel team withdrew from the tournament".
