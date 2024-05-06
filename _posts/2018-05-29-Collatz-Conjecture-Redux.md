@@ -54,9 +54,14 @@ try:
     print(len(collatz_list));    
     print();
     print('max number: ')
-    print(max(collatz_list));
+    collatz_list_max = max(collatz_list)
+    print(f"{collatz_list_max:,}");
     df_collatz = pd.DataFrame(collatz_list)
-    plt.plot(df_collatz)
+
+    # Formatting for commas on the Y-axis
+    ax = df_collatz.plot(kind='line')
+    ax.yaxis.set_major_formatter('{x:,.0f}')  # Commas, no decimals for integers
+
     plt.title('Collatz Conjecture for ' + str(seed) + ' | Graph of Ingtegers', y=1.01)
     plt.xlabel('Index')
     plt.ylabel('Integer')
