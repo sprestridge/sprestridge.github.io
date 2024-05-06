@@ -21,12 +21,10 @@ Enjoy.
 # HOTPO - half or triple plus one indefinitely
 def collatz(number):
     if number % 2 == 0:
-#        print(number // 2)
         return number // 2
 
     elif number % 2 == 1:
         result = 3 * number + 1
-#        print(result)
         return result
 
 import pandas as pd
@@ -62,7 +60,13 @@ try:
     ax = df_collatz.plot(kind='line')
     ax.yaxis.set_major_formatter('{x:,.0f}')  # Commas, no decimals for integers
 
-    plt.title('Collatz Conjecture for ' + str(seed) + ' | Graph of Ingtegers', y=1.01)
+    #plt.title('Collatz Conjecture for ' + str(seed) + ' | Graph of Ingtegers', y=1.01)
+    #plt.title(f"Collatz Conjecture for {seed:,} Graph of Integers", y=1.01)
+    # Alternative formatting with int() and format() methods
+    seed_int = int(seed)  # Convert seed string to integer
+    seed_formatted = "{:,}".format(seed_int)  # Format integer with comma separators
+    plt.title('Collatz Conjecture for ' + seed_formatted + ' | Graph of Integers', y=1.01)
+
     plt.xlabel('Index')
     plt.ylabel('Integer')
     
