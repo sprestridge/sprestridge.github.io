@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "ChatGPT Prompt Frameworks"
-date:  2024-05-23 11:00:00 -0500
+date:  2024-05-23 09:00:00 -0500
 categories: [llm, chatgpt, ai, data science]
 excerpt_separator: <!--more-->
 ---
