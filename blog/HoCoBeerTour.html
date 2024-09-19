@@ -1,0 +1,35 @@
+<html>
+  <head>
+    <title>Howard County Beer Tour</title>
+    <script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
+    <meta name="viewport" content="width=device-width" />
+    <!--<link rel="apple-touch-icon-precomposed" sizes="120x120" href="put-your-holiday-icon-here" />-->
+  </head>
+  <body>
+    <ol id="list"></ol>
+    <script type="text/javascript">
+      var addresses = [];
+      addresses.push("Bare Bones, 9150 Baltimore National Pike #22, Ellicott City, MD 21042");
+      addresses.push("Black Flag, 9315 Snowden River Pkwy, Columbia, MD 21046");
+      addresses.push("Ellicott Mills Brewing, 8308 Main St, Ellicott City, MD 21043");
+      addresses.push("Frisco / Push, 6695 Dobbin Rd, Columbia, MD 21045");
+      addresses.push("Hysteria, 9570 Berger Rd Suite J, Columbia, MD 21046");
+      addresses.push("Jailbreak, 9445 Washington Boulevard North F, Laurel, MD 20723");
+      addresses.push("Manor Hill, 4411 Manor Ln, Ellicott City, MD 21042");
+      addresses.push("Waredaca, 4017 Damascus Rd, Gaithersburg, MD 20882");
+
+      function replaceAll(str, from, to) {
+        return str.split(from).join(to);
+      }
+      
+      $(document).ready(function() {
+        for (var i=0; i < addresses.length; ++i) {
+          var from = "Current+Location";
+          var to = addresses[i];
+          
+          $("#list").append("<li><a href='http://maps.apple.com/?daddr=" + replaceAll(to, " ", "+") + "&saddr=" + from + "'>" + to.substr(0, to.indexOf(",")) + "</a></li>");
+        }
+      });
+    </script>
+  </body>
+</html>
