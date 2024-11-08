@@ -2,7 +2,7 @@
 layout: post
 title: "Unemployment - Chart Recreations"
 date:  2024-11-07 09:00:00 -0500
-categories: [datavis, data, python]
+categories: [datavis, data, python, excel]
 excerpt_separator: <!--more-->
 ---
 
@@ -166,6 +166,10 @@ ax.text(pd.Timestamp('2020-03-15'), 4.0, 'Pandemic', color='black', fontsize=12,
 plt.savefig('2024-11-06-Jobless_Rate.png', format='png', dpi=200)
 ```
 
-Looks pretty good if I do say so myself.
+Looks pretty good if I do say so myself. Certainly things could be improved (peak, Pandemic, and October '24 labels) or debated (span of the shading on the "Pandemic" era) but overall I am pleased. TIL how to add a shaded area to a line plot in Matplotlib. 
 
 ![](/img/2024-11-06-Jobless_Rate.png)
+
+For good measure, I tested myself and did it in Excel as well. Had to make a few different choices on labels and I got tired of trying to get the call-out shape on Oct '24 just right. Again, overall I'm pleased.
+
+![](/img/2024-11-08-Jobless_Rate_Excel.png)
