@@ -20,6 +20,8 @@ Via Ann's blog post on the matter:
 
 <cite>_Alt text_: Draft of the cancelled cartoon showing Mark Zuckerberg-Facebook & Meta founder and CEO, Sam Altman-OpenAI CEO, Patrick Soon-Shiong-LA Times publisher, the Walt Disney Company (as symbolized by Mickey Mouse)/ABC News, and Jeff Bezos-Washington Post owner praising and offering gifts to a big statue or person only seen from the belly down but easily identifiable as Trump by the large belly, small hands, and too long tie.</cite>
 
+[--more--]({{ site.baseurl }}{% link _posts/2025-01-05-Press-Not-Free.md %})
+
 <!--more-->
 
 But sure, [democracy dies in darkness](https://en.wikipedia.org/wiki/Democracy_Dies_in_Darkness). Ann is at least holding truth to power through her cartooning and decision to quit her job.
