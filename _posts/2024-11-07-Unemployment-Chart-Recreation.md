@@ -10,6 +10,8 @@ excerpt_separator: <!--more-->
 
 Dr. Drang had two posts on [All This](https://leancrew.com/all-this/) about the jobless rate (unemployment) and his use of Matplotlib and Python for plotting. I decided to experiment. I always love a good chart recreation exercise. [Ticks tricks](https://leancrew.com/all-this/2024/11/ticks-tricks/) provides the details while [Rescaling a graph](https://leancrew.com/all-this/2024/11/rescaling-a-graph/) was the original post.
 
+--more--]({{ site.baseurl }}{% link _posts/2024-11-07-Unemployment-Chart-Recreation.md %})
+
 <!--more-->
 
 ### 1. Obtain the same data
