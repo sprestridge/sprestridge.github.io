@@ -2,7 +2,6 @@
 layout: post
 title: "Peaking behind the curtain for International Women's Day"
 date:  2024-03-08 14:00:00 -0500
-categories:
 excerpt_separator: <!--more-->
 ---
 ### [Behind F1's Velvet Curtain](https://web.archive.org/web/20240301170542/https://www.roadandtrack.com/car-culture/a46975496/behind-f1-velvet-curtain/), by Kate Wagner **⇥** _web.archive.org_
