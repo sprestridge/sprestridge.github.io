@@ -2,7 +2,7 @@
 layout: post
 title: "No More Paper Books"
 date: 2025-01-06 12:00:00 -0500
-categories: sci-fi, books
+categories: [sci-fi, books]
 excerpt_separator: <!--more-->
 ---
 
