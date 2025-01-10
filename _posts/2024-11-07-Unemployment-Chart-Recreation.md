@@ -46,7 +46,7 @@ Drang does EDL on the file first:
 > 
 > and there’s a space character at the end of it, too.
 
-It doesn't look like I need to deal with this as I did some EDA in Excel and it looks like I have the final CSV formatted with only three character months. The space at the end of the regex and the us of the group are good tools to remember.
+It doesn't look like I need to deal with this as I did some EDA in Excel and it looks like I have the final CSV formatted with only three character months. The space at the end of the regex and the use of the group are good tools to remember.
 
 ### 2. Plot the data
 
