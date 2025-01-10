@@ -2,7 +2,7 @@
 layout: post
 title: "Write Better Code"
 date: 2025-01-04 12:00:00 -0500
-categories: ai, data science
+categories: [ai, data science]
 excerpt_separator: <!--more-->
 ---
 
