@@ -29,7 +29,7 @@ Use the mens average goals per game of 22.54 as the average rate (lambda) in the
 
 The Maryland vs Georgetown game from last weekend is also instructive. The final score was 9-6 which means 15 total goals were scored. Using the calculator again tells us that we would expect just 6.2% of games to have 15 total goals or less. Yes, the game was slower paced than most and had far less scoring than most.
 
-The power ratings in the table above likely differ slightly from those published by [LaxNumbers](https://laxnumbers.com/ratings.php?y=2025&v=501). I have calculated the ratings myself.
+The power ratings in the table above likely differ slightly from those published by [LaxNumbers](https://laxnumbers.com/ratings.php?y=2025&v=401). I have calculated the ratings myself.
 
 Using the data in the table above and the script included below, the following command in the terminal will return the tournament win probabilities for each of the four teams.
 
