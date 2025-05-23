@@ -107,11 +107,14 @@ This version is more convenient for repeated analysis with different parameters 
 - `parser = argparse.ArgumentParser(...)`: Creates an argument parser object.
 - `parser.add_argument(...)`: Defines each expected argument (its name, type, and help text).
 - `args = parser.parse_args()`: Parses the arguments provided on the command line.
-- **Input Handling:**
+
+**Input Handling:**
 - The `input()` prompts have been removed.
 - The values for `num_simulations`, `average_total_goals_per_game`, and the four team ratings are now read directly from `args.<argument_name>`.
 - **`average_total_goals_per_game` as a parameter:** This crucial value is no longer hardcoded within `simulate_game`. It's now passed down from the `main` function through `run_monte_carlo_analysis` and `simulate_tournament` to `simulate_game`, allowing you to easily adjust it from the command line.
-- **Input Validation:** Basic checks are added to ensure `num_simulations` and `average_total_goals_per_game` are positive values.
+
+**Input Validation:** 
+- Basic checks are added to ensure `num_simulations` and `average_total_goals_per_game` are positive values.
 
 ### Script
 
