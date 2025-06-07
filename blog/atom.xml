@@ -7,6 +7,8 @@ layout: null
  <title>Posts from Scott Prestridge</title>
  <link href="https://sprestridge.net/blog/atom.xml" rel="self"/>
  <link href="https://sprestridge.net/blog"/>
+ <link rel="icon" href="/img/favicon.png" type="image/png">
+ <link rel="icon" href="/img/favicon.ico" type="image/x-icon">
  <updated>{{ site.time | date_to_xmlschema }}</updated>
  <id>https://sprestridge.net/blog</id>
  <author>
