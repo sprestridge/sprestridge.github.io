@@ -3,6 +3,10 @@ layout: page
 title: Categories
 permalink: /categories/
 ---
+<!-- Rainbow corner from Pride.codes https://pride.codes/sample/rainbow-corner/ 
+<script type="text/javascript" src="https://cdn.pride.codes/js/rainbowcorner.js"></script> -->
+<!-- Pride bar instead of in the corner -->
+<link rel="stylesheet" href="https://cdn.pride.codes/css/bar_body.css">
 
 {% capture site_categories %}{% for category in site.categories %}{{ category | first }}{% unless forloop.last %},{% endunless %}{% endfor %}{% endcapture %}
 {% assign category_words = site_categories | split:',' | sort %}
