@@ -7,9 +7,13 @@ layout: null
  <title>Posts from Scott Prestridge</title>
  <link href="https://sprestridge.net/blog/atom.xml" rel="self"/>
  <link href="https://sprestridge.net/blog"/>
- <link rel="icon" href="/img/favicon.png" type="image/png">
- <link rel="icon" href="/img/favicon.ico" type="image/x-icon">
- <updated>{{ site.time | date_to_xmlschema }}</updated>
+ <link rel="icon" type="image/png" href="/img/favicon-96x96.png" sizes="96x96" />
+ <link rel="icon" type="image/svg+xml" href="/img/favicon.svg" />
+ <link rel="shortcut icon" href="/img/favicon.ico" />
+ <link rel="apple-touch-icon" sizes="180x180" href="/img/apple-touch-icon.png" />
+ <meta name="apple-mobile-web-app-title" content="OnEdge" />  
+ <link rel="manifest" href="/img/site.webmanifest" />
+ 
  <id>https://sprestridge.net/blog</id>
  <author>
    <name>Scott Prestridge</name>
