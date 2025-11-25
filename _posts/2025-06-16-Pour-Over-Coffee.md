@@ -14,7 +14,7 @@ I know. Another coffee snob writes a post about coffee but I wanted to document 
 
 <!--more-->
 
-Tonx, from [YesPlz](https://www.yesplz.coffee)–our favorite coffee subscription service, was a writer for the article. It doesn’t cover technique but does provide these comments in the **How-to** section:
+Tonx, from [YesPlz](https://www.yesplz.coffee)–our favorite coffee subscription service–was a writer for the article. It doesn’t cover technique but does provide these comments in the **How-to** section:
 
 > But your recipe and technique also matter. The most important factors for getting consistent, delicious results are your coffee-to-water ratio, the coarseness of your grounds, the temperature of the water, and the speed of your pour.
 > 
