@@ -8,7 +8,7 @@ excerpt_separator: <!--more-->
 ---
 ### Predicting the championship from the final four field
 
-I am revisiting last year's Monte Carlo posts on predicting the outcomes of lacrosse games ([here]({{ site.baseurl }}{% link _posts/2025-05-18-Monte-Carlo_Lacrosse.md %}) and [here]({{ site.baseurl }}{% link _posts/2025-05-23-Monte-Carlo-Redux.md %})). Heading into Memorial Day weekend 2026, the [UNC Women's Lacrosse](https://goheels.com/sports/womens-lacrosse) team has to be feeling confident. Defending champions and favored to win with 5 in 10 chances to take this year's championship. 
+I am revisiting last year's Monte Carlo posts on predicting the outcomes of lacrosse games ([here]({{ site.baseurl }}{% link _posts/2025-05-18-Monte-Carlo-Lacrosse.md %}) and [here]({{ site.baseurl }}{% link _posts/2025-05-23-Monte-Carlo-Redux.md %})). Heading into Memorial Day weekend 2026, the [UNC Women's Lacrosse](https://goheels.com/sports/womens-lacrosse) team has to be feeling confident. Defending champions and favored to win with 5 in 10 chances to take this year's championship. 
 
 On the Men's side, Notre Dame has 4 in 10 chances to win the championship with Princeton having 2.8 chances in 10.
 
